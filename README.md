@@ -6,7 +6,7 @@
 
 **Türkçe siber güvenlik ekosisteminin tamamı — doğrulanmış, kategorilenmiş, topluluk eliyle büyüyen tek dizin.**
 
-[![Kaynak Sayısı](https://img.shields.io/badge/kaynak-51-1C2957?style=flat-square)](#-i̇çindekiler)
+[![Kaynak Sayısı](https://img.shields.io/badge/kaynak-54-1C2957?style=flat-square)](#-i̇çindekiler)
 [![Link Kontrolü](https://img.shields.io/github/actions/workflow/status/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari/link-kontrol.yml?style=flat-square&label=linkler&color=2E4FD0)](https://github.com/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari/actions/workflows/link-kontrol.yml)
 [![PR'lar Açık](https://img.shields.io/badge/PR'lar-a%C3%A7%C4%B1k-2E4FD0?style=flat-square)](CONTRIBUTING.md)
 [![Katkıcılar](https://img.shields.io/github/contributors/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari?style=flat-square&label=katk%C4%B1c%C4%B1&color=1C2957)](https://github.com/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari/graphs/contributors)
@@ -22,15 +22,15 @@
 
 ## 📚 İçindekiler
 
-- [🚀 Başlangıç & Eğitim](#baslangic-egitim) `6`
+- [🚀 Başlangıç & Eğitim](#baslangic-egitim) `7`
 - [🕸️ Web Güvenliği & Sızma Testi](#web-guvenligi-sizma-testi) `4`
 - [🌐 Ağ & Sistem Güvenliği](#ag-sistem-guvenligi) `8`
 - [🛡️ Savunma — Blue Team & SOC](#savunma-blue-team-soc) `6`
 - [🔬 Adli Bilişim & Zararlı Analizi](#adli-bilisim-zararli-analizi) `5`
 - [🤖 Yapay Zekâ Güvenliği](#yapay-zeka-guvenligi) `3`
-- [🚩 CTF & Pratik](#ctf-pratik) `5`
+- [🚩 CTF & Pratik](#ctf-pratik) `6`
 - [📺 YouTube, Blog & Podcast](#youtube-blog-podcast) `5`
-- [🏛️ Kurumlar, Topluluklar & Kariyer](#kurumlar-topluluklar-kariyer) `5`
+- [🏛️ Kurumlar, Topluluklar & Kariyer](#kurumlar-topluluklar-kariyer) `6`
 - [🗂️ Diğer Türkçe Derlemeler](#diger-turkce-derlemeler) `4`
 - [🤝 Katkı](#-katkı)
 
@@ -47,6 +47,7 @@
 | [Mehmet İnce — Siber Güvenlik Alanında Kendimi Nasıl Geliştirebilirim?](https://tr.mehmetince.net/siber-guvenlik-alaninda-kendimi-nasil-gelistirebilirim-nereden-baslamaliyim/) | Tanınmış Türk güvenlik araştırmacısının yeni başlayanlar için yazdığı yol haritası: İngilizce, Linux, üniversite derslerinin rolü, ücretsiz kaynaklarla çalışma ve uzmanlık alanı seçimi üzerine somut tavsiyeler. | blog |
 | [SİBERAY](https://www.siberay.com/) | İçişleri Bakanlığı Siber Suçlarla Mücadele Daire Başkanlığı'nın; internet güvenliği, zararlı yazılımlar, teknoloji bağımlılığı ve dijital okuryazarlık konularında bireyler, ebeveynler ve öğretmenler için ücretsiz Türkçe farkındalık içerikleri sunan resmi platformu. | site |
 | [AltaySec Ekosistemi](https://altaysec.com.tr/ekosistem/) | Tamamı Türkçe ve ücretsiz 17+ siber güvenlik platformunu (akademi, lab, oyun, araç) tek sayfada toplayan ekosistem haritası. | site |
+| [Turkcell Geleceği Yazanlar — Siber Güvenlik](https://gelecegiyazanlar.turkcell.com.tr/egitimler/siber-guvenlik) | Linux, ağ temelleri, sızma testi, Python ve CTF çözümü konularını bir öğrenme yolunda birleştiren Türkçe siber güvenlik eğitimi. | kurs |
 
 ## 🕸️ Web Güvenliği & Sızma Testi
 
@@ -120,6 +121,7 @@
 | [CyberFlow](https://cyberflow.beyazhacker.com/tr) | Eğitim, video, test ve CTF modüllerini tek çatıda birleştiren, ağ güvenliği ve web pentest lab'larıyla pratik odaklı Türkçe siber güvenlik eğitim platformu; ücretsiz giriş katmanı var, ileri içerik premium. | platform |
 | [AltaySec Labs](https://labs.altaysec.com.tr) | Broken authentication'dan injection'a, Docker tabanlı Türkçe zafiyet lab'larını tarayıcıdan çalıştırma imkânı. | platform |
 | [Siber Tycoon](https://tycoon.altaysec.com.tr) | Siber güvenlik kariyerini oyunlaştıran Türkçe tarayıcı oyunu — SOC analistliğinden CISO'luğa ilerle. | platform |
+| [Siber Kampüs Akademi](https://www.siberkampus.org/) | Web zafiyetleri ve ağ araçlarını tarayıcı içindeki sanal laboratuvarlar ve CTF odalarıyla uygulamalı öğreten Türkçe eğitim platformu. | platform |
 
 ## 📺 YouTube, Blog & Podcast
 
@@ -144,6 +146,7 @@
 | [Siber Kulüpler Birliği](https://siberkulupler.com/) | 2018'den beri Türkiye'deki 50'den fazla üniversite siber güvenlik kulübünü tek çatıda toplayan öğrenci ağı; etkinlik, eğitim programı, kurs ve staj duyurularının merkezi. | topluluk |
 | [STM ThinkTech — Siber Tehdit Durum Raporu](https://thinktech.stm.com.tr/tr) | STM'nin üç ayda bir yayımladığı Türkçe Siber Tehdit Durum Raporları ve teknoloji analizleri. | doküman |
 | [PwnLabMe](https://pwnlab.me/) | Sızma testi, zararlı yazılım analizi, ağ güvenliği ve CTF konularında Türkçe soru-cevap, eğitim içerikleri ve kariyer/sertifika rehberleri barındıran aktif siber güvenlik topluluk forumu. | topluluk |
+| [Cyber BlackSea](https://cyber-blacksea.ktusec.com.tr/) | Karadeniz bölgesindeki öğrencileri, uzmanları ve sektör profesyonellerini CTF ve uygulamalı siber güvenlik eğitimleri etrafında bir araya getiren Türkçe zirve ve topluluk platformu. | topluluk |
 
 ## 🗂️ Diğer Türkçe Derlemeler
 
@@ -178,3 +181,4 @@ Kabul kriterleri kısaca: **Türkçe içerik · canlı link · tek cümlelik som
 ⭐ *Faydalı bulduysan yıldızla — daha çok kişiye ulaşmasını sağlarsın.*
 
 </div>
+

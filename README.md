@@ -6,7 +6,7 @@
 
 **Türkçe siber güvenlik ekosisteminin tamamı — doğrulanmış, kategorilenmiş, topluluk eliyle büyüyen tek dizin.**
 
-[![Kaynak Sayısı](https://img.shields.io/badge/kaynak-51-1C2957?style=flat-square)](#-i̇çindekiler)
+[![Kaynak Sayısı](https://img.shields.io/badge/kaynak-59-1C2957?style=flat-square)](#-i̇çindekiler)
 [![Link Kontrolü](https://img.shields.io/github/actions/workflow/status/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari/link-kontrol.yml?style=flat-square&label=linkler&color=2E4FD0)](https://github.com/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari/actions/workflows/link-kontrol.yml)
 [![PR'lar Açık](https://img.shields.io/badge/PR'lar-a%C3%A7%C4%B1k-2E4FD0?style=flat-square)](CONTRIBUTING.md)
 [![Katkıcılar](https://img.shields.io/github/contributors/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari?style=flat-square&label=katk%C4%B1c%C4%B1&color=1C2957)](https://github.com/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari/graphs/contributors)
@@ -22,15 +22,15 @@
 
 ## 📚 İçindekiler
 
-- [🚀 Başlangıç & Eğitim](#baslangic-egitim) `6`
+- [🚀 Başlangıç & Eğitim](#baslangic-egitim) `7`
 - [🕸️ Web Güvenliği & Sızma Testi](#web-guvenligi-sizma-testi) `4`
 - [🌐 Ağ & Sistem Güvenliği](#ag-sistem-guvenligi) `8`
-- [🛡️ Savunma — Blue Team & SOC](#savunma-blue-team-soc) `6`
+- [🛡️ Savunma — Blue Team & SOC](#savunma-blue-team-soc) `10`
 - [🔬 Adli Bilişim & Zararlı Analizi](#adli-bilisim-zararli-analizi) `5`
 - [🤖 Yapay Zekâ Güvenliği](#yapay-zeka-guvenligi) `3`
 - [🚩 CTF & Pratik](#ctf-pratik) `5`
-- [📺 YouTube, Blog & Podcast](#youtube-blog-podcast) `5`
-- [🏛️ Kurumlar, Topluluklar & Kariyer](#kurumlar-topluluklar-kariyer) `5`
+- [📺 YouTube, Blog & Podcast](#youtube-blog-podcast) `7`
+- [🏛️ Kurumlar, Topluluklar & Kariyer](#kurumlar-topluluklar-kariyer) `6`
 - [🗂️ Diğer Türkçe Derlemeler](#diger-turkce-derlemeler) `4`
 - [🤝 Katkı](#-katkı)
 
@@ -47,6 +47,7 @@
 | [Mehmet İnce — Siber Güvenlik Alanında Kendimi Nasıl Geliştirebilirim?](https://tr.mehmetince.net/siber-guvenlik-alaninda-kendimi-nasil-gelistirebilirim-nereden-baslamaliyim/) | Tanınmış Türk güvenlik araştırmacısının yeni başlayanlar için yazdığı yol haritası: İngilizce, Linux, üniversite derslerinin rolü, ücretsiz kaynaklarla çalışma ve uzmanlık alanı seçimi üzerine somut tavsiyeler. | blog |
 | [SİBERAY](https://www.siberay.com/) | İçişleri Bakanlığı Siber Suçlarla Mücadele Daire Başkanlığı'nın; internet güvenliği, zararlı yazılımlar, teknoloji bağımlılığı ve dijital okuryazarlık konularında bireyler, ebeveynler ve öğretmenler için ücretsiz Türkçe farkındalık içerikleri sunan resmi platformu. | site |
 | [AltaySec Ekosistemi](https://altaysec.com.tr/ekosistem/) | Tamamı Türkçe ve ücretsiz 17+ siber güvenlik platformunu (akademi, lab, oyun, araç) tek sayfada toplayan ekosistem haritası. | site |
+| [Siber Güvenlik Okulu (Savunma Sanayii Akademi)](https://sgokulu.ssa.gov.tr/) | Savunma Sanayii Akademi'nin; SOC operasyonları, log analizi, OSINT, tehdit avcılığı ve olay müdahalesi konularında uzmanlık eğitimleri sunduğu Türkçe siber güvenlik eğitim platformu. | platform |
 
 ## 🕸️ Web Güvenliği & Sızma Testi
 
@@ -86,6 +87,10 @@
 | [BGA Cyber Security SlideShare Arşivi](https://www.slideshare.net/bgasecurity) | 270+ Türkçe sunumluk arşiv: 'Open Source SOC Kurulumu', 'SOC Ekipleri için MITRE ATT&CK Kullanım Senaryoları', 'Hacklenmiş Windows Sistem Analizi' ve log yönetimi/saldırı analizi eğitim slaytları gibi savunma tarafı materyalleri ücretsiz sunuyor. | doküman |
 | [BGA — SOC Ekiplerinin Kullandığı Kısaltmalar ve Tanımların Türkçe Anlamları](https://www.bgasecurity.com/2021/11/soc-ekiplerinin-kullandigi-kisaltmalar-ve-tanimlarin-turkce-anlamlari/) | APT'den Zero Trust'a 70'ten fazla SOC terimini alfabetik sırayla Türkçe tanımlayan sözlük; SOC'a yeni başlayan analistler için hızlı başvuru kaynağı. | doküman |
 | [SIEM ve Splunk Nedir? & Splunk Kurulumu (İbrahim Kadıkıran, Medium)](https://medium.com/@ibrahimkadikiran/siem-ve-splunk-nedir-splunk-kurulumu-c590e72f8f36) | SIEM kavramını (SIM+SEM) açıklayıp Linux/CentOS üzerinde Splunk'ı RPM ile adım adım kurmayı ve web arayüzüne erişimi gösteren uygulamalı Türkçe yazı. | blog |
+| [Bilgi ve İletişim Güvenliği Rehberi (Siber Güvenlik Başkanlığı)](https://siberguvenlik.gov.tr/bigdes) | Siber Güvenlik Başkanlığı'nın kamu kurumları ve kritik altyapılar için asgari bilgi güvenliği tedbirlerini, uyum sürecini ve denetim metodolojisini açıkladığı resmi Türkçe rehber. | doküman |
+| [Kişisel Veri Güvenliği Rehberi — Teknik ve İdari Tedbirler (KVKK)](https://www.kvkk.gov.tr/Icerik/4198/Kisisel-Veri-Guvenligi-Rehberi-%28Teknik-ve-Idari-Tedbirler%29) | KVKK'nın veri sorumlularına kişisel verileri korumak için uygulanacak teknik ve idari güvenlik tedbirlerini örnekleriyle anlattığı resmi Türkçe rehber. | doküman |
+| [Kurumsal SOME'lerin Kurulması ve Yönetilmesi (USOM)](https://dsy.usom.gov.tr/usom/19/02/190211090329_Kurumsal%20_SOME_Rehberi.pdf) | USOM'un kurum içi siber olaylara müdahale ekiplerinin organizasyonunu, görevlerini ve olay öncesi-esnası-sonrası süreçlerini tanımladığı resmi Türkçe rehber. | doküman |
+| [Sektörel SOME Kurulum ve Yönetim Rehberi (USOM)](https://hgm.uab.gov.tr/uploads/pages/siber-guvenlik/sektorel-some-reh.pdf) | Sektörel SOME'lerin Kurumsal SOME ve USOM ile koordinasyonunu, ekip yapısını ve siber olay yönetimi sorumluluklarını açıklayan resmi Türkçe rehber. | doküman |
 
 ## 🔬 Adli Bilişim & Zararlı Analizi
 
@@ -132,6 +137,8 @@
 | [Siber Bülten](https://siberbulten.com/) | Siber güvenlik haberleri, kritik altyapı güvenliği, KVKK ve siber diplomasi analizlerini 2016'dan beri tamamen Türkçe yayınlayan; kendini siber güvenliğin 'Türkçe hafızası' olarak konumlandıran haber-analiz sitesi. | site |
 | [Halil Öztürkci Blog](https://halilozturkci.com/) | Adli bilişim (forensics) alanının Türkiye'deki öncü isimlerinden Halil Öztürkci'nin agentic AI güvenliği, APT faaliyetleri, siber savaş ve KVKK konularını Türkçe işlediği kişisel blog. | blog |
 | [Türkiye Siber Güvenlik Kümelenmesi YouTube Kanalı](https://www.youtube.com/c/turkiyesiberguvenlikkumelenmesi) | Savunma Sanayii Başkanlığı destekli Siber Güvenlik Kümelenmesi'nin sektör buluşmaları, webinar ve kariyer içeriklerini Türkçe yayınladığı 11,8 bin aboneli resmi kanal. | youtube |
+| [MDISEC Twitch Yayınları](https://github.com/mdisec/mdisec-twitch-yayinlari) | Mehmet İnce'nin Türkçe canlı yayınlarına ait kod, sunum ve bağlantıları; web güvenliği, tehdit istihbaratı, SOC, CTF ve kariyer konularında arşivleyen açık kaynak depo. | repo |
+| [Siberin Günlüğü](https://podcasts.apple.com/tr/podcast/siberin-g%C3%BCnl%C3%BC%C4%9F%C3%BC/id1456842720) | Türkiye ve dünyadaki siber güvenlik gelişmelerini, tehditleri ve sektör gündemini Türkçe bölümlerle ele alan podcast serisi. | podcast |
 
 ## 🏛️ Kurumlar, Topluluklar & Kariyer
 
@@ -144,6 +151,7 @@
 | [Siber Kulüpler Birliği](https://siberkulupler.com/) | 2018'den beri Türkiye'deki 50'den fazla üniversite siber güvenlik kulübünü tek çatıda toplayan öğrenci ağı; etkinlik, eğitim programı, kurs ve staj duyurularının merkezi. | topluluk |
 | [STM ThinkTech — Siber Tehdit Durum Raporu](https://thinktech.stm.com.tr/tr) | STM'nin üç ayda bir yayımladığı Türkçe Siber Tehdit Durum Raporları ve teknoloji analizleri. | doküman |
 | [PwnLabMe](https://pwnlab.me/) | Sızma testi, zararlı yazılım analizi, ağ güvenliği ve CTF konularında Türkçe soru-cevap, eğitim içerikleri ve kariyer/sertifika rehberleri barındıran aktif siber güvenlik topluluk forumu. | topluluk |
+| [Bilgi Teknolojileri ve İletişim Dergisi (BTK Dergi)](https://dergi.btk.gov.tr/tr/pub/btkdergi) | BTK'nın siber güvenlik, bilgi güvenliği, ağ güvenliği, kriptografi ve siber savunma alanlarında Türkçe açık erişimli hakemli makaleler yayımladığı akademik dergi. | doküman |
 
 ## 🗂️ Diğer Türkçe Derlemeler
 
@@ -178,3 +186,4 @@ Kabul kriterleri kısaca: **Türkçe içerik · canlı link · tek cümlelik som
 ⭐ *Faydalı bulduysan yıldızla — daha çok kişiye ulaşmasını sağlarsın.*
 
 </div>
+

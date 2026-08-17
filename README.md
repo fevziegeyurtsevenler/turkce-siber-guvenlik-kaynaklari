@@ -51,6 +51,7 @@
 | [Savunma Sanayii Akademi](https://www.ssb.gov.tr/savunma-sanayii-akademi) | Siber güvenlik, ağ ve savunma teknolojileri alanında online dersler ve sertifikalı eğitim modülleri barındıran resmi akademi platformu. | platform |
 | [Turkcell Geleceği Yazanlar — Siber Güvenlik Eğitim Programı](https://gelecegiyazanlar.turkcell.com.tr/egitimler/siber-guvenlik) | Temel siber güvenlik, Linux, ağ temelleri, sızma testi ve Python konularını kapsayan ücretsiz ve sertifikalı Türkçe eğitim serisi. | kurs |
 | [Techcareer.net — Siber Güvenliğe Giriş Eğitimi](https://www.techcareer.net/courses/siber-guvenlik) | Temel siber güvenlik kavramları, saldırı türleri ve veri koruma yöntemlerini 5 modülde anlatan ücretsiz Türkçe başlangıç kursu. | kurs |
+| [TÜBİTAK BİLGEM Siber Akademi](https://siberakademi.bilgem.tubitak.gov.tr/) | TÜBİTAK BİLGEM tarafından sunulan; siber güvenlik, adli bilişim, zararlı yazılım analizi ve tersine mühendislik alanlarında online dersler ve yetkinlik eğitimleri barındıran resmi platform. | platform |
 
 ## 🕸️ Web Güvenliği & Sızma Testi
 

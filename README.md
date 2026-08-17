@@ -47,6 +47,7 @@
 | [Mehmet İnce — Siber Güvenlik Alanında Kendimi Nasıl Geliştirebilirim?](https://tr.mehmetince.net/siber-guvenlik-alaninda-kendimi-nasil-gelistirebilirim-nereden-baslamaliyim/) | Tanınmış Türk güvenlik araştırmacısının yeni başlayanlar için yazdığı yol haritası: İngilizce, Linux, üniversite derslerinin rolü, ücretsiz kaynaklarla çalışma ve uzmanlık alanı seçimi üzerine somut tavsiyeler. | blog |
 | [SİBERAY](https://www.siberay.com/) | İçişleri Bakanlığı Siber Suçlarla Mücadele Daire Başkanlığı'nın; internet güvenliği, zararlı yazılımlar, teknoloji bağımlılığı ve dijital okuryazarlık konularında bireyler, ebeveynler ve öğretmenler için ücretsiz Türkçe farkındalık içerikleri sunan resmi platformu. | site |
 | [AltaySec Ekosistemi](https://altaysec.com.tr/ekosistem/) | Tamamı Türkçe ve ücretsiz 17+ siber güvenlik platformunu (akademi, lab, oyun, araç) tek sayfada toplayan ekosistem haritası. | site |
+| [Savunma Sanayii Akademi](https://www.ssb.gov.tr/savunma-sanayii-akademi) | Siber güvenlik, ağ ve savunma teknolojileri alanında online dersler ve sertifikalı eğitim modülleri barındıran resmi akademi platformu. | platform |
 
 ## 🕸️ Web Güvenliği & Sızma Testi
 

@@ -120,6 +120,7 @@
 | [CyberFlow](https://cyberflow.beyazhacker.com/tr) | Eğitim, video, test ve CTF modüllerini tek çatıda birleştiren, ağ güvenliği ve web pentest lab'larıyla pratik odaklı Türkçe siber güvenlik eğitim platformu; ücretsiz giriş katmanı var, ileri içerik premium. | platform |
 | [AltaySec Labs](https://labs.altaysec.com.tr) | Broken authentication'dan injection'a, Docker tabanlı Türkçe zafiyet lab'larını tarayıcıdan çalıştırma imkânı. | platform |
 | [Siber Tycoon](https://tycoon.altaysec.com.tr) | Siber güvenlik kariyerini oyunlaştıran Türkçe tarayıcı oyunu — SOC analistliğinden CISO'luğa ilerle. | platform |
+| [Hackviser](https://hackviser.com) | Web zafiyetleri, ağ güvenliği ve sistem sızma testleri üzerine tarayıcı üzerinden erişilebilen uygulamalı Türkçe laboratuvarlar ve CTF meydan okumaları sunan pratik platformu. | platform |
 
 ## 📺 YouTube, Blog & Podcast
 

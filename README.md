@@ -26,7 +26,7 @@
 - [🕸️ Web Güvenliği & Sızma Testi](#web-guvenligi-sizma-testi) `4`
 - [🌐 Ağ & Sistem Güvenliği](#ag-sistem-guvenligi) `8`
 - [🛡️ Savunma — Blue Team & SOC](#savunma-blue-team-soc) `6`
-- [🔬 Adli Bilişim & Zararlı Analizi](#adli-bilisim-zararli-analizi) `5`
+- [🔬 Adli Bilişim & Zararlı Analizi](#adli-bilisim-zararli-analizi) `6`
 - [🤖 Yapay Zekâ Güvenliği](#yapay-zeka-guvenligi) `3`
 - [🚩 CTF & Pratik](#ctf-pratik) `5`
 - [📺 YouTube, Blog & Podcast](#youtube-blog-podcast) `5`
@@ -98,6 +98,7 @@
 | [PwnLabMe — Volatility Framework ile Memory Forensics](https://pwnlab.me/konular/volatility-framework-ile-memory-forensics.284/) | Türkçe siber güvenlik topluluğu PwnLabMe'de Volatility eklentileriyle (imageinfo, pslist, cmdscan, envars) gerçek bir bellek dökümünün adım adım incelendiği, CyberChef ile XOR çözümüne kadar giden uygulamalı memory forensics anlatımı. | topluluk |
 | [Muhammed Aygün — DFIR Blog (Memory/Linux/ESXi Forensics)](https://www.muhammedaygun.com/2024/07/25/memory-forensics-part-i/) | Adli bilişim mühendisinin Türkçe DFIR blogu; Memory Forensics Part I-II, Linux Forensics ve 3 bölümlük ESXi Forensics serileriyle RAM ve sistem incelemelerini vaka odaklı anlatıyor. | blog |
 | [GAIS Security — Zararlı Yazılım Analiz Teknikleri](https://www.gaissecurity.com/blog/zararli-yazilim-analiz-teknikleri) | Statik analiz, dinamik (davranışsal) analiz ve bellek analizi olmak üzere üç temel malware analizi yaklaşımını VirusTotal, process izleme araçları ve Volatility örnekleriyle anlatan Türkçe giriş makalesi. | blog |
+| [Windows Forensic 101 – Siber Altay](https://docs.siberaltay.org/forensic/windows-forensic-101) | Windows Registry üzerinden adli analiz sürecini NTUSER.DAT, Shimcache, UserAssist, BAM/DAM ve USB izleri gibi somut kayıt defteri artefaktlarıyla adım adım anlatan Türkçe rehber. | doküman |
 
 ## 🤖 Yapay Zekâ Güvenliği
 

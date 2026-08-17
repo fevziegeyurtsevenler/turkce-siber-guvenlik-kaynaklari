@@ -47,6 +47,8 @@
 | [Mehmet İnce — Siber Güvenlik Alanında Kendimi Nasıl Geliştirebilirim?](https://tr.mehmetince.net/siber-guvenlik-alaninda-kendimi-nasil-gelistirebilirim-nereden-baslamaliyim/) | Tanınmış Türk güvenlik araştırmacısının yeni başlayanlar için yazdığı yol haritası: İngilizce, Linux, üniversite derslerinin rolü, ücretsiz kaynaklarla çalışma ve uzmanlık alanı seçimi üzerine somut tavsiyeler. | blog |
 | [SİBERAY](https://www.siberay.com/) | İçişleri Bakanlığı Siber Suçlarla Mücadele Daire Başkanlığı'nın; internet güvenliği, zararlı yazılımlar, teknoloji bağımlılığı ve dijital okuryazarlık konularında bireyler, ebeveynler ve öğretmenler için ücretsiz Türkçe farkındalık içerikleri sunan resmi platformu. | site |
 | [AltaySec Ekosistemi](https://altaysec.com.tr/ekosistem/) | Tamamı Türkçe ve ücretsiz 17+ siber güvenlik platformunu (akademi, lab, oyun, araç) tek sayfada toplayan ekosistem haritası. | site |
+| [Turkcell Geleceği Yazanlar — Siber Güvenlik Eğitim Programı](https://gelecegiyazanlar.turkcell.com.tr/egitimler/siber-guvenlik) | Temel siber güvenlik, Linux, ağ temelleri, sızma testi ve Python konularını kapsayan ücretsiz ve sertifikalı Türkçe eğitim serisi. | kurs |
+| [Techcareer.net — Siber Güvenliğe Giriş Eğitimi](https://www.techcareer.net/courses/siber-guvenlik) | Temel siber güvenlik kavramları, saldırı türleri ve veri koruma yöntemlerini 5 modülde anlatan ücretsiz Türkçe başlangıç kursu. | kurs |
 
 ## 🕸️ Web Güvenliği & Sızma Testi
 
@@ -58,6 +60,7 @@
 | [OWASP Top 10 2017 Resmi Türkçe Çevirisi](https://github.com/OWASP/Top10/tree/master/2017/tr) | OWASP Top 10 2017'nin resmi Türkçe çevirisi: injection'dan XSS'e 10 riskin her biri için ayrı Türkçe markdown dosyaları ile geliştirici/testçi/yönetici rehberleri ve Türkçe sunum dosyası. | doküman |
 | [Hack 4 Career (Mert Sarıca)](https://www.mertsarica.com/) | 2009'dan beri yayında olan, sızma testi, zafiyet araştırması, oltalama analizi ve tehdit istihbaratı yazıları içeren köklü Türkçe (son yıllarda çift dilli) güvenlik araştırma blogu. | blog |
 | [TurkHackTeam — Bug Bounty Rehberi](https://www.turkhackteam.org/konular/bug-bounty-rehberi.1909918/) | Bug bounty'ye sıfırdan başlayanlar için HackerOne/Bugcrowd gibi platformları, P1-P5 zafiyet sınıflandırmasını ve Burp Suite/Nmap gibi araçları Türkçe anlatan başlangıç rehberi. | doküman |
+| [Turkcell Geleceği Yazanlar — Pentesting Eğitim Programı](https://gelecegiyazanlar.turkcell.com.tr/egitimler/pentesting) | Pentest temelleri, web/API sızma testleri, Burp Suite, Kali Linux ve kablosuz ağ güvenliğini ele alan ücretsiz Türkçe eğitim serisi. | kurs |
 
 ## 🌐 Ağ & Sistem Güvenliği
 
@@ -73,6 +76,7 @@
 | [Privia Security Blog — Linux Güvenlik Yapılandırması](https://www.priviasecurity.com/blog/linux-guvenlik-yapilandirmasi/) | Root hesap yönetimi, servis azaltma, umask/dosya izinleri, OSSEC-Samhain ile bütünlük izleme ve nodev/nosuid/noexec mount seçeneklerini anlatan Türkçe Linux sıkılaştırma yazısı; blogda başka sistem güvenliği yazıları da var. | blog |
 | [siberguvenlik.gen.tr — Siber Güvenlik ve Etik Hacking Ders Notları](https://siberguvenlik.gen.tr/ders/) | İşletim sistemleri, ağlar, kriptoloji, kablosuz ağ güvenliği ve sızma testlerini kapsayan 15 haftalık üniversite dersinin ücretsiz Türkçe sunum ve not arşivi. | doküman |
 | [Murat Kara — Bilgisayar Ağları (Network) Ders Notu PDF](https://muratkara.tr/network/Network.pdf) | Bilgisayar ağlarına girişten protokollere kadar konuları kapsayan 246 sayfalık ücretsiz Türkçe ders notu PDF'i (öğretim görevlisi Murat Kara'nın ders materyali). | doküman |
+| [Techcareer.net — Linux & Bash Scripting Eğitimi](https://www.techcareer.net/courses/linux-bash-script-egitimi) | Temel Linux komutları, dosya yönetimi, kullanıcı yetkilendirme ve otomasyon için Bash betik yazımını anlatan ücretsiz Türkçe eğitim. | kurs |
 
 ## 🛡️ Savunma — Blue Team & SOC
 
@@ -86,6 +90,7 @@
 | [BGA Cyber Security SlideShare Arşivi](https://www.slideshare.net/bgasecurity) | 270+ Türkçe sunumluk arşiv: 'Open Source SOC Kurulumu', 'SOC Ekipleri için MITRE ATT&CK Kullanım Senaryoları', 'Hacklenmiş Windows Sistem Analizi' ve log yönetimi/saldırı analizi eğitim slaytları gibi savunma tarafı materyalleri ücretsiz sunuyor. | doküman |
 | [BGA — SOC Ekiplerinin Kullandığı Kısaltmalar ve Tanımların Türkçe Anlamları](https://www.bgasecurity.com/2021/11/soc-ekiplerinin-kullandigi-kisaltmalar-ve-tanimlarin-turkce-anlamlari/) | APT'den Zero Trust'a 70'ten fazla SOC terimini alfabetik sırayla Türkçe tanımlayan sözlük; SOC'a yeni başlayan analistler için hızlı başvuru kaynağı. | doküman |
 | [SIEM ve Splunk Nedir? & Splunk Kurulumu (İbrahim Kadıkıran, Medium)](https://medium.com/@ibrahimkadikiran/siem-ve-splunk-nedir-splunk-kurulumu-c590e72f8f36) | SIEM kavramını (SIM+SEM) açıklayıp Linux/CentOS üzerinde Splunk'ı RPM ile adım adım kurmayı ve web arayüzüne erişimi gösteren uygulamalı Türkçe yazı. | blog |
+| [Turkcell Geleceği Yazanlar — Siber Güvenlik Analisti Eğitim Programı](https://gelecegiyazanlar.turkcell.com.tr/egitimler/siber-guvenlik-analisti) | Ağ temelleri, bilgi toplama, zafiyet analizi ve savunma mekanizmalarını modüler olarak ele alan ücretsiz Türkçe analist eğitimi. | kurs |
 
 ## 🔬 Adli Bilişim & Zararlı Analizi
 
@@ -132,6 +137,7 @@
 | [Siber Bülten](https://siberbulten.com/) | Siber güvenlik haberleri, kritik altyapı güvenliği, KVKK ve siber diplomasi analizlerini 2016'dan beri tamamen Türkçe yayınlayan; kendini siber güvenliğin 'Türkçe hafızası' olarak konumlandıran haber-analiz sitesi. | site |
 | [Halil Öztürkci Blog](https://halilozturkci.com/) | Adli bilişim (forensics) alanının Türkiye'deki öncü isimlerinden Halil Öztürkci'nin agentic AI güvenliği, APT faaliyetleri, siber savaş ve KVKK konularını Türkçe işlediği kişisel blog. | blog |
 | [Türkiye Siber Güvenlik Kümelenmesi YouTube Kanalı](https://www.youtube.com/c/turkiyesiberguvenlikkumelenmesi) | Savunma Sanayii Başkanlığı destekli Siber Güvenlik Kümelenmesi'nin sektör buluşmaları, webinar ve kariyer içeriklerini Türkçe yayınladığı 11,8 bin aboneli resmi kanal. | youtube |
+| [Siber Kulüpler Birliği Blog](https://blog.siberkulupler.com/) | Üniversite siber güvenlik topluluklarının hazırladığı ağ güvenliği, zararlı analizi ve CTF çözümlerini içeren Türkçe teknik makale yayını. | blog |
 
 ## 🏛️ Kurumlar, Topluluklar & Kariyer
 

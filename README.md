@@ -79,6 +79,7 @@
 | [siberguvenlik.gen.tr — Siber Güvenlik ve Etik Hacking Ders Notları](https://siberguvenlik.gen.tr/ders/) | İşletim sistemleri, ağlar, kriptoloji, kablosuz ağ güvenliği ve sızma testlerini kapsayan 15 haftalık üniversite dersinin ücretsiz Türkçe sunum ve not arşivi. | doküman |
 | [Murat Kara — Bilgisayar Ağları (Network) Ders Notu PDF](https://muratkara.tr/network/Network.pdf) | Bilgisayar ağlarına girişten protokollere kadar konuları kapsayan 246 sayfalık ücretsiz Türkçe ders notu PDF'i (öğretim görevlisi Murat Kara'nın ders materyali). | doküman |
 | [Techcareer.net — Linux & Bash Scripting Eğitimi](https://www.techcareer.net/courses/linux-bash-script-egitimi) | Temel Linux komutları, dosya yönetimi, kullanıcı yetkilendirme ve otomasyon için Bash betik yazımını anlatan ücretsiz Türkçe eğitim. | kurs |
+| [BTRisk Blog](https://www.btrisk.com/blog/) | Kurumsal siber güvenlik mimarisi, ağ sızma testleri ve zafiyet yönetimi üzerine teknik içerikler. | blog |
 
 ## 🛡️ Savunma — Blue Team & SOC
 
@@ -134,6 +135,7 @@
 | [Siber Tycoon](https://tycoon.altaysec.com.tr) | Siber güvenlik kariyerini oyunlaştıran Türkçe tarayıcı oyunu — SOC analistliğinden CISO'luğa ilerle. | platform |
 | [Hackviser](https://hackviser.com) | Web zafiyetleri, ağ güvenliği ve sistem sızma testleri üzerine tarayıcı üzerinden erişilebilen uygulamalı Türkçe laboratuvarlar ve CTF meydan okumaları sunan pratik platformu. | platform |
 | [Siber Kampüs Akademi](https://www.siberkampus.org/) | Web zafiyetleri ve ağ araçlarını tarayıcı içindeki sanal laboratuvarlar ve CTF odalarıyla uygulamalı öğreten Türkçe eğitim platformu. | platform |
+| [Yavuzlar](https://yavuzlar.org/blog) | Bağımsız araştırmacılar için web, ağ ve kriptografi alanlarında uygulamalı CTF çözümleri ve siber güvenlik araştırmaları. | topluluk |
 
 ## 📺 YouTube, Blog & Podcast
 
@@ -163,6 +165,7 @@
 | [PwnLabMe](https://pwnlab.me/) | Sızma testi, zararlı yazılım analizi, ağ güvenliği ve CTF konularında Türkçe soru-cevap, eğitim içerikleri ve kariyer/sertifika rehberleri barındıran aktif siber güvenlik topluluk forumu. | topluluk |
 | [Bilgi Teknolojileri ve İletişim Dergisi (BTK Dergi)](https://dergi.btk.gov.tr/tr/pub/btkdergi) | BTK'nın siber güvenlik, bilgi güvenliği, ağ güvenliği, kriptografi ve siber savunma alanlarında Türkçe açık erişimli hakemli makaleler yayımladığı akademik dergi. | doküman |
 | [Cyber BlackSea](https://cyber-blacksea.ktusec.com.tr/) | Karadeniz bölgesindeki öğrencileri, uzmanları ve sektör profesyonellerini CTF ve uygulamalı siber güvenlik eğitimleri etrafında bir araya getiren Türkçe zirve ve topluluk platformu. | topluluk |
+| [TÜBİTAK BİLGEM SGE](https://sge.bilgem.tubitak.gov.tr/) | Güvenli yazılım geliştirme standartları, kriptoloji ve kurumsal güvenlik mimarisi rehberleri. | doküman |
 
 ## 🗂️ Diğer Türkçe Derlemeler
 

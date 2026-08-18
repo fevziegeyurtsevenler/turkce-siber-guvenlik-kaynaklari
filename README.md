@@ -97,6 +97,7 @@
 | [Kurumsal SOME'lerin Kurulması ve Yönetilmesi (USOM)](https://dsy.usom.gov.tr/usom/19/02/190211090329_Kurumsal%20_SOME_Rehberi.pdf) | USOM'un kurum içi siber olaylara müdahale ekiplerinin organizasyonunu, görevlerini ve olay öncesi-esnası-sonrası süreçlerini tanımladığı resmi Türkçe rehber. | doküman |
 | [Sektörel SOME Kurulum ve Yönetim Rehberi (USOM)](https://hgm.uab.gov.tr/uploads/pages/siber-guvenlik/sektorel-some-reh.pdf) | Sektörel SOME'lerin Kurumsal SOME ve USOM ile koordinasyonunu, ekip yapısını ve siber olay yönetimi sorumluluklarını açıklayan resmi Türkçe rehber. | doküman |
 | [Turkcell Geleceği Yazanlar — Siber Güvenlik Analisti Eğitim Programı](https://gelecegiyazanlar.turkcell.com.tr/egitimler/siber-guvenlik-analisti) | Ağ temelleri, bilgi toplama, zafiyet analizi ve savunma mekanizmalarını modüler olarak ele alan ücretsiz Türkçe analist eğitimi. | kurs |
+| [BTK Akademi - SIEM Temelleri](https://www.btkakademi.gov.tr/portal/course/siem-temelleri-29958) | SIEM ürünlerinin çalışma mantığını, log korelasyonunu ve Splunk/Kibana gibi temel araçları anlatan ücretsiz Türkçe eğitim. | kurs |
 
 ## 🔬 Adli Bilişim & Zararlı Analizi
 

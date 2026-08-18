@@ -51,6 +51,7 @@
 | [Savunma Sanayii Akademi](https://www.ssb.gov.tr/savunma-sanayii-akademi) | Siber güvenlik, ağ ve savunma teknolojileri alanında online dersler ve sertifikalı eğitim modülleri barındıran resmi akademi platformu. | platform |
 | [Turkcell Geleceği Yazanlar — Siber Güvenlik Eğitim Programı](https://gelecegiyazanlar.turkcell.com.tr/egitimler/siber-guvenlik) | Temel siber güvenlik, Linux, ağ temelleri, sızma testi ve Python konularını kapsayan ücretsiz ve sertifikalı Türkçe eğitim serisi. | kurs |
 | [Techcareer.net — Siber Güvenliğe Giriş Eğitimi](https://www.techcareer.net/courses/siber-guvenlik) | Temel siber güvenlik kavramları, saldırı türleri ve veri koruma yöntemlerini 5 modülde anlatan ücretsiz Türkçe başlangıç kursu. | kurs |
+| [ag-cyber-lab](https://github.com/ahmetgulerpy/ag-cyber-lab) | Ahmet Güler tarafından hazırlanan, siber güvenlik temelleri ve pratik laboratuvar ortamı çalışmalarını içeren açık kaynaklı rehber ve kaynak arşivi. | repo |
 
 ## 🕸️ Web Güvenliği & Sızma Testi
 

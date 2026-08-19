@@ -6,7 +6,7 @@
 
 **Türkçe siber güvenlik ekosisteminin tamamı — doğrulanmış, kategorilenmiş, topluluk eliyle büyüyen tek dizin.**
 
-[![Kaynak Sayısı](https://img.shields.io/badge/kaynak-76-1C2957?style=flat-square)](#-i̇çindekiler)
+[![Kaynak Sayısı](https://img.shields.io/badge/kaynak-78-1C2957?style=flat-square)](#-i̇çindekiler)
 [![Link Kontrolü](https://img.shields.io/github/actions/workflow/status/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari/link-kontrol.yml?style=flat-square&label=linkler&color=2E4FD0)](https://github.com/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari/actions/workflows/link-kontrol.yml)
 [![PR'lar Açık](https://img.shields.io/badge/PR'lar-a%C3%A7%C4%B1k-2E4FD0?style=flat-square)](CONTRIBUTING.md)
 [![Katkıcılar](https://img.shields.io/github/contributors/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari?style=flat-square&label=katk%C4%B1c%C4%B1&color=1C2957)](https://github.com/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari/graphs/contributors)
@@ -22,8 +22,8 @@
 
 ## 📚 İçindekiler
 
-- [🚀 Başlangıç & Eğitim](#baslangic-egitim) `12`
-- [🕸️ Web Güvenliği & Sızma Testi](#web-guvenligi-sizma-testi) `5`
+- [🚀 Başlangıç & Eğitim](#baslangic-egitim) `13`
+- [🕸️ Web Güvenliği & Sızma Testi](#web-guvenligi-sizma-testi) `6`
 - [🌐 Ağ & Sistem Güvenliği](#ag-sistem-guvenligi) `10`
 - [🛡️ Savunma — Blue Team & SOC](#savunma-blue-team-soc) `12`
 - [🔬 Adli Bilişim & Zararlı Analizi](#adli-bilisim-zararli-analizi) `6`
@@ -53,6 +53,7 @@
 | [Techcareer.net — Siber Güvenliğe Giriş Eğitimi](https://www.techcareer.net/courses/siber-guvenlik) | Temel siber güvenlik kavramları, saldırı türleri ve veri koruma yöntemlerini 5 modülde anlatan ücretsiz Türkçe başlangıç kursu. | kurs |
 | [TÜBİTAK BİLGEM Siber Akademi](https://siberakademi.bilgem.tubitak.gov.tr/) | TÜBİTAK BİLGEM tarafından sunulan; siber güvenlik, adli bilişim, zararlı yazılım analizi ve tersine mühendislik alanlarında online dersler ve yetkinlik eğitimleri barındıran resmi platform. | platform |
 | [ag-cyber-lab](https://github.com/ahmetgulerpy/ag-cyber-lab) | Yapılandırılmış dersler, uygulamalı lab görevleri ve ilerleme takibiyle siber güvenlik temellerini öğreten açık kaynak Türkçe eğitim platformu. | repo |
+| [Cisco Networking Academy — Siber Güvenliğe Giriş](https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=tr-TR) | Cisco tarafından hazırlanan; siber tehditleri, saldırı yöntemlerini, kişisel ve kurumsal verilerin korunmasını ve siber güvenlik kariyerlerini etkileşimli içeriklerle anlatan ücretsiz Türkçe başlangıç eğitimi. | kurs |
 
 ## 🕸️ Web Güvenliği & Sızma Testi
 

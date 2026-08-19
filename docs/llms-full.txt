@@ -13,6 +13,7 @@
 - [Techcareer.net — Siber Güvenliğe Giriş Eğitimi](https://www.techcareer.net/courses/siber-guvenlik) — Temel siber güvenlik kavramları, saldırı türleri ve veri koruma yöntemlerini 5 modülde anlatan ücretsiz Türkçe başlangıç kursu.
 - [TÜBİTAK BİLGEM Siber Akademi](https://siberakademi.bilgem.tubitak.gov.tr/) — TÜBİTAK BİLGEM tarafından sunulan; siber güvenlik, adli bilişim, zararlı yazılım analizi ve tersine mühendislik alanlarında online dersler ve yetkinlik eğitimleri barındıran resmi platform.
 - [ag-cyber-lab](https://github.com/ahmetgulerpy/ag-cyber-lab) — Yapılandırılmış dersler, uygulamalı lab görevleri ve ilerleme takibiyle siber güvenlik temellerini öğreten açık kaynak Türkçe eğitim platformu.
+- [Cisco Networking Academy — Siber Güvenliğe Giriş](https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=tr-TR) — Cisco tarafından hazırlanan; siber tehditleri, saldırı yöntemlerini, kişisel ve kurumsal verilerin korunmasını ve siber güvenlik kariyerlerini etkileşimli içeriklerle anlatan ücretsiz Türkçe başlangıç eğitimi.
 
 ## 🕸️ Web Güvenliği & Sızma Testi
 - [Bughane Academy](https://bughaneacademy.com/) — XSS, SQL injection, IDOR, SSRF ve CSRF gibi web zafiyetleri üzerine gerçek bug bounty write-up'ları, payload/bypass teknikleri ve mentorluk alanı sunan ücretsiz Türkçe bug bounty topluluğu.
@@ -20,6 +21,7 @@
 - [Hack 4 Career (Mert Sarıca)](https://www.mertsarica.com/) — 2009'dan beri yayında olan, sızma testi, zafiyet araştırması, oltalama analizi ve tehdit istihbaratı yazıları içeren köklü Türkçe (son yıllarda çift dilli) güvenlik araştırma blogu.
 - [TurkHackTeam — Bug Bounty Rehberi](https://www.turkhackteam.org/konular/bug-bounty-rehberi.1909918/) — Bug bounty'ye sıfırdan başlayanlar için HackerOne/Bugcrowd gibi platformları, P1-P5 zafiyet sınıflandırmasını ve Burp Suite/Nmap gibi araçları Türkçe anlatan başlangıç rehberi.
 - [Turkcell Geleceği Yazanlar — Pentesting Eğitim Programı](https://gelecegiyazanlar.turkcell.com.tr/egitimler/pentesting) — Pentest temelleri, web/API sızma testleri, Burp Suite, Kali Linux ve kablosuz ağ güvenliğini ele alan ücretsiz Türkçe eğitim serisi.
+- [OWASP Top 10 2021 Resmi Türkçe Çevirisi](https://owasp.org/Top10/2021/tr/) — Broken Access Control'den SSRF'e kadar 10 web uygulama riskini ve iyileştirme önerilerini içeren OWASP Top 10 2021'in resmi Türkçe çevirisi.
 
 ## 🌐 Ağ & Sistem Güvenliği
 - [Linux Dersleri — Ağ (Network) Temelleri Eğitimi](https://www.linuxdersleri.net/temel-network.html) — OSI/TCP-IP modeli, switch-router çalışması ve ağ protokollerini 8 bölümde anlatan ücretsiz Türkçe ağ temelleri serisi; aynı sitede Temel Linux eğitimi de var.

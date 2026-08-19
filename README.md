@@ -67,6 +67,8 @@
 | [TurkHackTeam — Bug Bounty Rehberi](https://www.turkhackteam.org/konular/bug-bounty-rehberi.1909918/) | Bug bounty'ye sıfırdan başlayanlar için HackerOne/Bugcrowd gibi platformları, P1-P5 zafiyet sınıflandırmasını ve Burp Suite/Nmap gibi araçları Türkçe anlatan başlangıç rehberi. | doküman |
 | [Turkcell Geleceği Yazanlar — Pentesting Eğitim Programı](https://gelecegiyazanlar.turkcell.com.tr/egitimler/pentesting) | Pentest temelleri, web/API sızma testleri, Burp Suite, Kali Linux ve kablosuz ağ güvenliğini ele alan ücretsiz Türkçe eğitim serisi. | kurs |
 | [OWASP Top 10 2021 Resmi Türkçe Çevirisi](https://owasp.org/Top10/2021/tr/) | Broken Access Control'den SSRF'e kadar 10 web uygulama riskini ve iyileştirme önerilerini içeren OWASP Top 10 2021'in resmi Türkçe çevirisi. | doküman |
+| [Web Uygulamaları Penetrasyon Testleri Metodolojileri](https://www.beyaz.net/tr/guvenlik/makaleler/web_uygulamalari_penetrasyon_testleri_metodolojileri.html) | Web pentest süreçlerini ve yaygın metodolojileri adım adım anlatan teknik makale. | blog |
+| [Docker ile Web Uygulama Pentest Laboratuvarı Kurma](https://ondernet.net/docker-ile-web-uygulama-pentest-laboratuvari-kurma) | Kali, Juice Shop, DVWA, bWAPP ve WebGoat ile Docker üzerinde kendi pentest lab'ını kurmayı anlatan rehber. | blog |
 
 ## 🌐 Ağ & Sistem Güvenliği
 
@@ -116,6 +118,7 @@
 | [Muhammed Aygün — DFIR Blog (Memory/Linux/ESXi Forensics)](https://www.muhammedaygun.com/2024/07/25/memory-forensics-part-i/) | Adli bilişim mühendisinin Türkçe DFIR blogu; Memory Forensics Part I-II, Linux Forensics ve 3 bölümlük ESXi Forensics serileriyle RAM ve sistem incelemelerini vaka odaklı anlatıyor. | blog |
 | [GAIS Security — Zararlı Yazılım Analiz Teknikleri](https://www.gaissecurity.com/blog/zararli-yazilim-analiz-teknikleri) | Statik analiz, dinamik (davranışsal) analiz ve bellek analizi olmak üzere üç temel malware analizi yaklaşımını VirusTotal, process izleme araçları ve Volatility örnekleriyle anlatan Türkçe giriş makalesi. | blog |
 | [Windows Forensic 101 – Siber Altay](https://docs.siberaltay.org/forensic/windows-forensic-101) | Windows Registry üzerinden adli analiz sürecini NTUSER.DAT, Shimcache, UserAssist, BAM/DAM ve USB izleri gibi somut kayıt defteri artefaktlarıyla adım adım anlatan Türkçe rehber. | doküman |
+| [Ekizer.Net - Adli Bilişim](https://www.ekizer.net/adli-bilisim-computer-forensics/) | ACE/EnCe/CCE/CHFI/CEH sertifikalı bir uzmanın kaleme aldığı, adli bilişimin temellerini anlatan yazı. | blog |
 
 ## 🤖 Yapay Zekâ Güvenliği
 

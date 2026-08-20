@@ -54,6 +54,7 @@
 | [TÜBİTAK BİLGEM Siber Akademi](https://siberakademi.bilgem.tubitak.gov.tr/) | TÜBİTAK BİLGEM tarafından sunulan; siber güvenlik, adli bilişim, zararlı yazılım analizi ve tersine mühendislik alanlarında online dersler ve yetkinlik eğitimleri barındıran resmi platform. | platform |
 | [ag-cyber-lab](https://github.com/ahmetgulerpy/ag-cyber-lab) | Yapılandırılmış dersler, uygulamalı lab görevleri ve ilerleme takibiyle siber güvenlik temellerini öğreten açık kaynak Türkçe eğitim platformu. | repo |
 | [Cisco Networking Academy — Siber Güvenliğe Giriş](https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=tr-TR) | Cisco tarafından hazırlanan; siber tehditleri, saldırı yöntemlerini, kişisel ve kurumsal verilerin korunmasını ve siber güvenlik kariyerlerini etkileşimli içeriklerle anlatan ücretsiz Türkçe başlangıç eğitimi. | kurs |
+| [Siber Güvenlik Eğitimi Türkçe Rehber](https://github.com/EnginArslan49/siber-guvenlik-egitimi-turkce-kapsamli-rehber) | Temel kavramlar, saldırı türleri, SOME/SOC ve kariyer/sertifika konularını kapsayan ücretsiz Türkçe başlangıç rehberi. | repo |
 
 ## 🕸️ Web Güvenliği & Sızma Testi
 

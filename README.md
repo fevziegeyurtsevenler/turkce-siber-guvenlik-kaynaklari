@@ -69,6 +69,7 @@
 | [OWASP Top 10 2021 Resmi Türkçe Çevirisi](https://owasp.org/Top10/2021/tr/) | Broken Access Control'den SSRF'e kadar 10 web uygulama riskini ve iyileştirme önerilerini içeren OWASP Top 10 2021'in resmi Türkçe çevirisi. | doküman |
 | [Web Uygulamaları Penetrasyon Testleri Metodolojileri](https://www.beyaz.net/tr/guvenlik/makaleler/web_uygulamalari_penetrasyon_testleri_metodolojileri.html) | Web pentest süreçlerini ve yaygın metodolojileri adım adım anlatan teknik makale. | blog |
 | [Docker ile Web Uygulama Pentest Laboratuvarı Kurma](https://ondernet.net/docker-ile-web-uygulama-pentest-laboratuvari-kurma) | Kali, Juice Shop, DVWA, bWAPP ve WebGoat ile Docker üzerinde kendi pentest lab'ını kurmayı anlatan rehber. | blog |
+| [Eyüp Turan — Siber Güvenlik Lab & Blog](https://eyupturan.com/) | SQLi, XSS, IDOR, LFI ve file upload gibi web zafiyetlerini DVWA/bWAPP lab'larıyla Türkçe adım adım anlatan aktif pentest blogu. | blog |
 
 ## 🌐 Ağ & Sistem Güvenliği
 

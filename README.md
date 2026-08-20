@@ -105,6 +105,7 @@
 | [Sektörel SOME Kurulum ve Yönetim Rehberi (USOM)](https://hgm.uab.gov.tr/uploads/pages/siber-guvenlik/sektorel-some-reh.pdf) | Sektörel SOME'lerin Kurumsal SOME ve USOM ile koordinasyonunu, ekip yapısını ve siber olay yönetimi sorumluluklarını açıklayan resmi Türkçe rehber. | doküman |
 | [Turkcell Geleceği Yazanlar — Siber Güvenlik Analisti Eğitim Programı](https://gelecegiyazanlar.turkcell.com.tr/egitimler/siber-guvenlik-analisti) | Ağ temelleri, bilgi toplama, zafiyet analizi ve savunma mekanizmalarını modüler olarak ele alan ücretsiz Türkçe analist eğitimi. | kurs |
 | [BTK Akademi - SIEM Temelleri](https://www.btkakademi.gov.tr/portal/course/siem-temelleri-29958) | SIEM ürünlerinin çalışma mantığını, log korelasyonunu ve Splunk/Kibana gibi temel araçları anlatan ücretsiz Türkçe eğitim. | kurs |
+| [Serdar Kurt Blog](https://www.serdarkurt.com.tr/) | Wazuh SIEM kurulumu, pfSense, honeypot (T-POT) ve Atomic Red Team gibi savunma araçlarını Türkçe teknik rehberlerle anlatan sistem güvenliği blogu. | blog |
 
 ## 🔬 Adli Bilişim & Zararlı Analizi
 

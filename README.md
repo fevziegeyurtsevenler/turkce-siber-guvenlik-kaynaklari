@@ -141,6 +141,7 @@
 | [Hackviser](https://hackviser.com) | Web zafiyetleri, ağ güvenliği ve sistem sızma testleri üzerine tarayıcı üzerinden erişilebilen uygulamalı Türkçe laboratuvarlar ve CTF meydan okumaları sunan pratik platformu. | platform |
 | [Siber Kampüs Akademi](https://www.siberkampus.org/) | Web zafiyetleri ve ağ araçlarını tarayıcı içindeki sanal laboratuvarlar ve CTF odalarıyla uygulamalı öğreten Türkçe eğitim platformu. | platform |
 | [Yavuzlar Yazılarımız](https://docs.yavuzlar.org/) | Yavuzlar topluluğunun web, ağ, kriptografi ve CTF alanlarındaki Türkçe eğitim yazılarını ve araştırmalarını topladığı doküman platformu. | doküman |
+| [Süleyman Ergen — HATSAT](https://suleymanergen.com/) | Protostar, ROP Emporium ve HTB odaklı CTF write-up'ları ile binary exploitation ve SIEM konularını Türkçe anlatan teknik blog. | blog |
 
 ## 📺 YouTube, Blog & Podcast
 

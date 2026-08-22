@@ -4,12 +4,12 @@
 
 - Site: https://fevziegeyurtsevenler.github.io/turkce-siber-guvenlik-kaynaklari
 - Repo: https://github.com/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari
-- Kaynak sayısı: 88 | Kategori: 10
+- Kaynak sayısı: 90 | Kategori: 10
 
 ## Kategoriler
-- 🚀 Başlangıç & Eğitim (15 kaynak)
+- 🚀 Başlangıç & Eğitim (16 kaynak)
 - 🕸️ Web Güvenliği & Sızma Testi (10 kaynak)
-- 🌐 Ağ & Sistem Güvenliği (10 kaynak)
+- 🌐 Ağ & Sistem Güvenliği (11 kaynak)
 - 🛡️ Savunma — Blue Team & SOC (13 kaynak)
 - 🔬 Adli Bilişim & Zararlı Analizi (7 kaynak)
 - 🤖 Yapay Zekâ Güvenliği (3 kaynak)

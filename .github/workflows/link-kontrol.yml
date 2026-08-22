@@ -30,6 +30,7 @@ jobs:
             --exclude "muratkara.tr"
             --exclude "siberguvenlik.gen.tr"
             --exclude "thinktech.stm.com.tr"
+            --exclude "siberakademi.bilgem.tubitak.gov.tr"
             README.md
           fail: true
         env:

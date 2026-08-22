@@ -155,6 +155,7 @@
 | [Siber Kampüs Akademi](https://www.siberkampus.org/) | Web zafiyetleri ve ağ araçlarını tarayıcı içindeki sanal laboratuvarlar ve CTF odalarıyla uygulamalı öğreten Türkçe eğitim platformu. | platform |
 | [Yavuzlar Yazılarımız](https://docs.yavuzlar.org/) | Yavuzlar topluluğunun web, ağ, kriptografi ve CTF alanlarındaki Türkçe eğitim yazılarını ve araştırmalarını topladığı doküman platformu. | doküman |
 | [Süleyman Ergen — HATSAT](https://suleymanergen.com/) | Protostar, ROP Emporium ve HTB odaklı CTF write-up'ları ile binary exploitation ve SIEM konularını Türkçe anlatan teknik blog. | blog |
+| [Siberoloji](https://www.siberoloji.com/tr/) | Kali Linux araçlarının kullanımı, ağ tarama temelleri ve siber güvenlik laboratuvar kurulumlarını sıfırdan anlatan uygulamalı Türkçe platform. | site |
 
 ## 📺 YouTube, Blog & Podcast
 

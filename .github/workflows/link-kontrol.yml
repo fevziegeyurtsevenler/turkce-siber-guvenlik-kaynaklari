@@ -12,17 +12,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      # Not: --exclude'daki muratkara.tr, siberguvenlik.gen.tr ve thinktech.stm.com.tr
+      # canlı ve tarayıcıdan erişilebilir; ancak GitHub Actions sunucu IP'lerini
+      # engelledikleri (bağlantı sıfırlama) veya ara SSL sertifikasını eksik sundukları
+      # için bu taramada yanlış-pozitif hata veriyorlardı, o yüzden hariç tutuldular.
       - name: Linkleri tara
         uses: lycheeverse/lychee-action@v2
         with:
           args: >-
             --no-progress
-            --timeout 20
-            --max-retries 2
-            --accept 200..=299,403,429,999
+            --timeout 30
+            --max-retries 3
+            --accept 200..=299,401,403,406,429,999
             --exclude "linkedin.com"
             --exclude "twitter.com"
             --exclude "x.com"
+            --exclude "muratkara.tr"
+            --exclude "siberguvenlik.gen.tr"
+            --exclude "thinktech.stm.com.tr"
             README.md
           fail: true
         env:

@@ -82,6 +82,7 @@
 - [Siber Kampüs Akademi](https://www.siberkampus.org/) — Web zafiyetleri ve ağ araçlarını tarayıcı içindeki sanal laboratuvarlar ve CTF odalarıyla uygulamalı öğreten Türkçe eğitim platformu.
 - [Yavuzlar Yazılarımız](https://docs.yavuzlar.org/) — Yavuzlar topluluğunun web, ağ, kriptografi ve CTF alanlarındaki Türkçe eğitim yazılarını ve araştırmalarını topladığı doküman platformu.
 - [Süleyman Ergen — HATSAT](https://suleymanergen.com/) — Protostar, ROP Emporium ve HTB odaklı CTF write-up'ları ile binary exploitation ve SIEM konularını Türkçe anlatan teknik blog.
+- [Siberoloji](https://www.siberoloji.com/tr/) — Kali Linux araçlarının kullanımı, ağ tarama temelleri ve siber güvenlik laboratuvar kurulumlarını sıfırdan anlatan uygulamalı Türkçe platform.
 
 ## 📺 YouTube, Blog & Podcast
 - [Mehmet İnce (mdisec) YouTube Kanalı](https://www.youtube.com/@mdisec) — 300+ zafiyet keşfetmiş bir sızma testi uzmanının canlı yayın ve derslerle web güvenliği, exploit geliştirme ve siber güvenlik kariyerini Türkçe anlattığı, 47 bin aboneli aktif YouTube kanalı.

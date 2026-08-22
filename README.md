@@ -94,6 +94,7 @@
 | [Murat Kara — Bilgisayar Ağları (Network) Ders Notu PDF](https://muratkara.tr/network/Network.pdf) | Bilgisayar ağlarına girişten protokollere kadar konuları kapsayan 246 sayfalık ücretsiz Türkçe ders notu PDF'i (öğretim görevlisi Murat Kara'nın ders materyali). | doküman |
 | [Techcareer.net — Linux & Bash Scripting Eğitimi](https://www.techcareer.net/courses/linux-bash-script-egitimi) | Temel Linux komutları, dosya yönetimi, kullanıcı yetkilendirme ve otomasyon için Bash betik yazımını anlatan ücretsiz Türkçe eğitim. | kurs |
 | [BTRisk Blog](https://www.btrisk.com/blog/) | Kurumsal siber güvenlik mimarisi, ağ sızma testleri ve zafiyet yönetimi üzerine teknik içerikler. | blog |
+| [Turkcell Geleceği Yazanlar – Temel Linux Eğitimi](https://gelecegiyazanlar.turkcell.com.tr/egitimler/temel-linux) | Temel komut satırından sistem yönetimine kadar 101-401 seviyelerinde Linux kullanımı sunan ücretsiz video kurs. | kurs |
 
 ## 🛡️ Savunma — Blue Team & SOC
 

@@ -56,6 +56,10 @@
 | [Cisco Networking Academy — Siber Güvenliğe Giriş](https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=tr-TR) | Cisco tarafından hazırlanan; siber tehditleri, saldırı yöntemlerini, kişisel ve kurumsal verilerin korunmasını ve siber güvenlik kariyerlerini etkileşimli içeriklerle anlatan ücretsiz Türkçe başlangıç eğitimi. | kurs |
 | [Nmap’e Giriş — Portlar, Servisler ve Temel Tarama Teknikleri](https://bilalkalayci.medium.com/nmape-giri%C5%9F-portlar-servisler-ve-temel-tarama-teknikleri-dd6326433946) | Temeli sıfır veya sıfıra yakın olan araştırmacılara anlaşılır betimlemelerle nmap'i anlatan Türkçe blog yazısı. | blog |
 | [Siber Güvenlik Eğitimi Türkçe Rehber](https://github.com/EnginArslan49/siber-guvenlik-egitimi-turkce-kapsamli-rehber) | Temel kavramlar, saldırı türleri, SOME/SOC ve kariyer/sertifika konularını kapsayan ücretsiz Türkçe başlangıç rehberi. | repo |
+<<<<<<< HEAD
+=======
+| [Metasploit Framework (MSF) Temel Kullanım Rehberi: Sömürü Mimarisini Anlamak](https://bilalkalayci.medium.com/metasploit-framework-msf-temel-kullan%C4%B1m-rehberi-s%C3%B6m%C3%BCr%C3%BC-mimarisini-anlamak-c3968080f536?sharedUserId=bilalkalayci) | Keşiften yetki yükseltmeye Metasploit mimarisini Kali Linux ve Metasploitable 2 uygulamalı laboratuvar senaryosu ve çıktılarıyla açıklayan pratik Türkçe blog rehberi. | blog |
+>>>>>>> 0235565 (kaynak: <Metasploit Framework (MSF) Temel Kullanım Rehberi: Sömürü Mimarisini Anlamak> eklendi)
 
 ## 🕸️ Web Güvenliği & Sızma Testi
 

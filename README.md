@@ -56,10 +56,6 @@
 | [Cisco Networking Academy — Siber Güvenliğe Giriş](https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=tr-TR) | Cisco tarafından hazırlanan; siber tehditleri, saldırı yöntemlerini, kişisel ve kurumsal verilerin korunmasını ve siber güvenlik kariyerlerini etkileşimli içeriklerle anlatan ücretsiz Türkçe başlangıç eğitimi. | kurs |
 | [Nmap’e Giriş — Portlar, Servisler ve Temel Tarama Teknikleri](https://bilalkalayci.medium.com/nmape-giri%C5%9F-portlar-servisler-ve-temel-tarama-teknikleri-dd6326433946) | Temeli sıfır veya sıfıra yakın olan araştırmacılara anlaşılır betimlemelerle nmap'i anlatan Türkçe blog yazısı. | blog |
 | [Siber Güvenlik Eğitimi Türkçe Rehber](https://github.com/EnginArslan49/siber-guvenlik-egitimi-turkce-kapsamli-rehber) | Temel kavramlar, saldırı türleri, SOME/SOC ve kariyer/sertifika konularını kapsayan ücretsiz Türkçe başlangıç rehberi. | repo |
-<<<<<<< HEAD
-=======
-| [Metasploit Framework (MSF) Temel Kullanım Rehberi: Sömürü Mimarisini Anlamak](https://bilalkalayci.medium.com/metasploit-framework-msf-temel-kullan%C4%B1m-rehberi-s%C3%B6m%C3%BCr%C3%BC-mimarisini-anlamak-c3968080f536?sharedUserId=bilalkalayci) | Keşiften yetki yükseltmeye Metasploit mimarisini Kali Linux ve Metasploitable 2 uygulamalı laboratuvar senaryosu ve çıktılarıyla açıklayan pratik Türkçe blog rehberi. | blog |
->>>>>>> 0235565 (kaynak: <Metasploit Framework (MSF) Temel Kullanım Rehberi: Sömürü Mimarisini Anlamak> eklendi)
 
 ## 🕸️ Web Güvenliği & Sızma Testi
 
@@ -172,6 +168,8 @@
 | [Siberin Günlüğü](https://podcasts.apple.com/tr/podcast/siberin-g%C3%BCnl%C3%BC%C4%9F%C3%BC/id1456842720) | Türkiye ve dünyadaki siber güvenlik gelişmelerini, tehditleri ve sektör gündemini Türkçe bölümlerle ele alan podcast serisi. | podcast |
 | [Siber Kulüpler Birliği Blog](https://blog.siberkulupler.com/) | Üniversite siber güvenlik topluluklarının hazırladığı ağ güvenliği, zararlı analizi ve CTF çözümlerini içeren Türkçe teknik makale yayını. | blog |
 | [Siber Havadis](https://siberhavadis.com/) | Üniversite öğrencilerinin hazırladığı; CVE, mevzuat ve yapay zekâ güvenliği gündemini Türkçe haber-analizlerle takip eden siber güvenlik haber sitesi. | site |
+| [Can Değer YouTube Kanalı](https://www.youtube.com/@candeger) | Siber güvenlik, sızma testleri ve teknoloji üzerine eğitici Türkçe videolar ve canlı yayınlar sunan YouTube kanalı. | youtube |
+| [Efe Görkem Ümit — Python'la Etik Hacker Araçları](https://www.youtube.com/playlist?list=PLaZoPjR0BnOECKnPEUqtbH47TiME4wWEN) | Python ile port tarayıcı, ağ aracı gibi etik hacker araçlarını sıfırdan yazmayı adım adım gösteren Türkçe video serisi. | youtube |
 
 ## 🏛️ Kurumlar, Topluluklar & Kariyer
 

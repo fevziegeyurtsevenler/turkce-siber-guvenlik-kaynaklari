@@ -172,6 +172,7 @@
 | [Siberin Günlüğü](https://podcasts.apple.com/tr/podcast/siberin-g%C3%BCnl%C3%BC%C4%9F%C3%BC/id1456842720) | Türkiye ve dünyadaki siber güvenlik gelişmelerini, tehditleri ve sektör gündemini Türkçe bölümlerle ele alan podcast serisi. | podcast |
 | [Siber Kulüpler Birliği Blog](https://blog.siberkulupler.com/) | Üniversite siber güvenlik topluluklarının hazırladığı ağ güvenliği, zararlı analizi ve CTF çözümlerini içeren Türkçe teknik makale yayını. | blog |
 | [Siber Havadis](https://siberhavadis.com/) | Üniversite öğrencilerinin hazırladığı; CVE, mevzuat ve yapay zekâ güvenliği gündemini Türkçe haber-analizlerle takip eden siber güvenlik haber sitesi. | site |
+| [Can Değer YouTube Kanalı](https://www.youtube.com/@candeger) | Siber güvenlik, sızma testleri ve teknoloji üzerine eğitici Türkçe videolar ve canlı yayınlar sunan YouTube kanalı. | youtube |
 
 ## 🏛️ Kurumlar, Topluluklar & Kariyer
 

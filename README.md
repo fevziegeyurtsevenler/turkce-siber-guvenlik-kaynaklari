@@ -173,6 +173,9 @@
 | [Siber Kulüpler Birliği Blog](https://blog.siberkulupler.com/) | Üniversite siber güvenlik topluluklarının hazırladığı ağ güvenliği, zararlı analizi ve CTF çözümlerini içeren Türkçe teknik makale yayını. | blog |
 | [Siber Havadis](https://siberhavadis.com/) | Üniversite öğrencilerinin hazırladığı; CVE, mevzuat ve yapay zekâ güvenliği gündemini Türkçe haber-analizlerle takip eden siber güvenlik haber sitesi. | site |
 | [Can Değer YouTube Kanalı](https://www.youtube.com/@candeger) | Siber güvenlik, sızma testleri ve teknoloji üzerine eğitici Türkçe videolar ve canlı yayınlar sunan YouTube kanalı. | youtube |
+| [Efe Görkem Ümit — Siber Güvenlik ve Nmap Eğitim Serisi](https://www.youtube.com/playlist?list=PLaZoPjR0BnOECKnPEUqtbH47TiME4wWEN) | Network tarama, Nmap kullanımı ve temel siber güvenlik kavramlarını uygulamalı anlatan Türkçe video eğitim serisi. | youtube |
+| [Ahmet Hasan Akçil — Siber Güvenlik Eğitim Serisi](https://www.youtube.com/playlist?list=PLF1opfQYZOw-AwDZPZR0LGe2vygoKsNtV&index=2) | Siber güvenlik ve sızma testleri üzerine temel seviyeden başlayan uygulamalı Türkçe video ders serisi. | youtube |
+
 
 ## 🏛️ Kurumlar, Topluluklar & Kariyer
 

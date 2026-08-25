@@ -112,7 +112,7 @@
 | [BTK Akademi - SIEM Temelleri](https://www.btkakademi.gov.tr/portal/course/siem-temelleri-29958) | SIEM ürünlerinin çalışma mantığını, log korelasyonunu ve Splunk/Kibana gibi temel araçları anlatan ücretsiz Türkçe eğitim. | kurs |
 | [Serdar Kurt Blog](https://www.serdarkurt.com.tr/) | Wazuh SIEM kurulumu, pfSense, honeypot (T-POT) ve Atomic Red Team gibi savunma araçlarını Türkçe teknik rehberlerle anlatan sistem güvenliği blogu. | blog |
 | [SiberTehdit](https://sibertehdit.com/) | Windows güvenliği, Active Directory, Detection Engineering, MITRE ATT&CK, Sigma, Windows Event ID, CVE analizi, Blue Team ve tehdit istihbaratı konularında Türkçe teknik içerikler sunan siber güvenlik platformu. | site |
-| [Securtr](https://securtr.com/) | SIEM, Wazuh, tehdit istihbaratı, siber güvenlik ve yapay zekâ güvenliği alanlarında uygulamalı Türkçe rehberler, teknik analizler ve güvenlik içerikleri sunan platform. | blog |
+
 
 ## 🔬 Adli Bilişim & Zararlı Analizi
 

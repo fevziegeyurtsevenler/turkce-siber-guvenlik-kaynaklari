@@ -196,6 +196,7 @@
 | [hackercamp](https://github.com/halit/hackercamp) | "Enine boyuna siber güvenlik" — aktif olarak güncellenen kapsamlı Türkçe eğitim ve içerik reposu. | repo |
 | [Siber Güvenlik Rehberi](https://github.com/cumakurt/Siber_Guvenlik_Rehberi) | Temel kavramlardan uygulamaya Türkçe siber güvenlik eğitim rehberi. | repo |
 | [Türkçe Kaynaklar — Siber Güvenlik Bölümü](https://turkcekaynaklar.org/kaynaklar) | OWASP Top 10 Türkçe çevirisi, penetrasyon testi ve zararlı yazılım analizi dahil topluluk derlemesi ücretsiz Türkçe kurs/video/doküman dizini; seviyeye göre filtrelenebilen 43 kaynak listeler. | site |
+| [ASM-Cloud-Tools](https://github.com/qw3r1y/ASM-Cloud-Tools) | Cloud ve attack surface management süreçlerinde kullanılabilecek açık kaynak güvenlik araçlarını bir araya getiren araç koleksiyonu. | repo |
 
 
 ---

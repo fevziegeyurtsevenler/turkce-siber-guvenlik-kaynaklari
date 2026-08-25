@@ -6,7 +6,7 @@
 
 **Türkçe siber güvenlik ekosisteminin tamamı — doğrulanmış, kategorilenmiş, topluluk eliyle büyüyen tek dizin.**
 
-[![Kaynak Sayısı](https://img.shields.io/badge/kaynak-92-1C2957?style=flat-square)](#-i̇çindekiler)
+[![Kaynak Sayısı](https://img.shields.io/badge/kaynak-95-1C2957?style=flat-square)](#-i̇çindekiler)
 [![Link Kontrolü](https://img.shields.io/github/actions/workflow/status/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari/link-kontrol.yml?style=flat-square&label=linkler&color=2E4FD0)](https://github.com/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari/actions/workflows/link-kontrol.yml)
 [![PR'lar Açık](https://img.shields.io/badge/PR'lar-a%C3%A7%C4%B1k-2E4FD0?style=flat-square)](CONTRIBUTING.md)
 [![Katkıcılar](https://img.shields.io/github/contributors/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari?style=flat-square&label=katk%C4%B1c%C4%B1&color=1C2957)](https://github.com/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari/graphs/contributors)
@@ -25,13 +25,13 @@
 - [🚀 Başlangıç & Eğitim](#baslangic-egitim) `15`
 - [🕸️ Web Güvenliği & Sızma Testi](#web-guvenligi-sizma-testi) `10`
 - [🌐 Ağ & Sistem Güvenliği](#ag-sistem-guvenligi) `11`
-- [🛡️ Savunma — Blue Team & SOC](#savunma-blue-team-soc) `13`
+- [🛡️ Savunma — Blue Team & SOC](#savunma-blue-team-soc) `15`
 - [🔬 Adli Bilişim & Zararlı Analizi](#adli-bilisim-zararli-analizi) `7`
 - [🤖 Yapay Zekâ Güvenliği](#yapay-zeka-guvenligi) `3`
 - [🚩 CTF & Pratik](#ctf-pratik) `10`
 - [📺 YouTube, Blog & Podcast](#youtube-blog-podcast) `11`
 - [🏛️ Kurumlar, Topluluklar & Kariyer](#kurumlar-topluluklar-kariyer) `8`
-- [🗂️ Diğer Türkçe Derlemeler](#diger-turkce-derlemeler) `4`
+- [🗂️ Diğer Türkçe Derlemeler](#diger-turkce-derlemeler) `5`
 - [🤝 Katkı](#-katkı)
 
 

@@ -56,6 +56,8 @@
 - [Turkcell Geleceği Yazanlar — Siber Güvenlik Analisti Eğitim Programı](https://gelecegiyazanlar.turkcell.com.tr/egitimler/siber-guvenlik-analisti) — Ağ temelleri, bilgi toplama, zafiyet analizi ve savunma mekanizmalarını modüler olarak ele alan ücretsiz Türkçe analist eğitimi.
 - [BTK Akademi - SIEM Temelleri](https://www.btkakademi.gov.tr/portal/course/siem-temelleri-29958) — SIEM ürünlerinin çalışma mantığını, log korelasyonunu ve Splunk/Kibana gibi temel araçları anlatan ücretsiz Türkçe eğitim.
 - [Serdar Kurt Blog](https://www.serdarkurt.com.tr/) — Wazuh SIEM kurulumu, pfSense, honeypot (T-POT) ve Atomic Red Team gibi savunma araçlarını Türkçe teknik rehberlerle anlatan sistem güvenliği blogu.
+- [SiberTehdit](https://sibertehdit.com/) — Windows güvenliği, Active Directory, Detection Engineering, MITRE ATT&CK, Sigma, Windows Event ID, CVE analizi, Blue Team ve tehdit istihbaratı konularında Türkçe teknik içerikler sunan siber güvenlik platformu.
+- [Securtr](https://securtr.com/) — SIEM, Wazuh, tehdit istihbaratı, siber güvenlik ve yapay zekâ güvenliği alanlarında uygulamalı Türkçe rehberler, teknik analizler ve güvenlik içerikleri sunan platform.
 
 ## 🔬 Adli Bilişim & Zararlı Analizi
 - [BTK Akademi — Adli Bilişim Eğitimi](https://www.btkakademi.gov.tr/portal/course/adli-bilisime-giris-24376) — BTK'nın ücretsiz ve katılım sertifikalı Türkçe adli bilişim programı; dijital delil toplama, imaj alma ve adli inceleme süreçlerini video derslerle anlatıyor, bilirkişilik yapan akademisyen eğitmen tarafından hazırlanmış.
@@ -111,3 +113,4 @@
 - [hackercamp](https://github.com/halit/hackercamp) — "Enine boyuna siber güvenlik" — aktif olarak güncellenen kapsamlı Türkçe eğitim ve içerik reposu.
 - [Siber Güvenlik Rehberi](https://github.com/cumakurt/Siber_Guvenlik_Rehberi) — Temel kavramlardan uygulamaya Türkçe siber güvenlik eğitim rehberi.
 - [Türkçe Kaynaklar — Siber Güvenlik Bölümü](https://turkcekaynaklar.org/kaynaklar) — OWASP Top 10 Türkçe çevirisi, penetrasyon testi ve zararlı yazılım analizi dahil topluluk derlemesi ücretsiz Türkçe kurs/video/doküman dizini; seviyeye göre filtrelenebilen 43 kaynak listeler.
+- [ASM-Cloud-Tools](https://github.com/qw3r1y/ASM-Cloud-Tools) — Cloud ve attack surface management süreçlerinde kullanılabilecek açık kaynak güvenlik araçlarını bir araya getiren araç koleksiyonu.

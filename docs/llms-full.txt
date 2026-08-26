@@ -28,6 +28,10 @@
 - [Docker ile Web Uygulama Pentest Laboratuvarı Kurma](https://ondernet.net/docker-ile-web-uygulama-pentest-laboratuvari-kurma) — Kali, Juice Shop, DVWA, bWAPP ve WebGoat ile Docker üzerinde kendi pentest lab'ını kurmayı anlatan rehber.
 - [Eyüp Turan — Siber Güvenlik Lab & Blog](https://eyupturan.com/) — SQLi, XSS, IDOR, LFI ve file upload gibi web zafiyetlerini DVWA/bWAPP lab'larıyla Türkçe adım adım anlatan aktif pentest blogu.
 - [Cisco NetAcad - Etik Hacker](https://www.netacad.com/courses/ethical-hacker?courseLang=tr-TR) — Penetrasyon testi planlama, zafiyet değerlendirmesi ve saldırgan güvenlik metodolojilerini anlatan ücretsiz Türkçe eğitim.
+- [Server-Side Request Forgery (SSRF) — Yusuf Barut](https://medium.com/@yusufbarut210/server-side-request-forgery-ssrf-0489d1d8760a) — SSRF zafiyetinin çalışma mantığını, Basic ve Blind SSRF türlerini, cloud metadata ve iç ağ senaryolarını, Burp Suite ile test yöntemlerini ve korunma tekniklerini uygulamalı olarak anlatan Türkçe rehber.
+- [Cross-Site Request Forgery (CSRF) — Yusuf Barut](https://medium.com/@yusufbarut210/cross-site-request-forgery-csrf-kullanıcının-haberi-olmadan-yapılan-saldırılar-a4102b2ff647) — CSRF saldırılarının çalışma mantığını, kullanıcı oturumlarının nasıl kötüye kullanılabildiğini, saldırı senaryolarını ve korunma yöntemlerini Türkçe olarak anlatan rehber.
+- [SQL Injection — Yusuf Barut](https://medium.com/@yusufbarut210/sql-injection-web-uygulamalarının-en-eski-ve-en-tehlikeli-düşmanı-f409e0736079) — SQL Injection zafiyetinin çalışma mantığını, saldırı türlerini, veritabanı sorguları üzerinden oluşan riskleri ve temel korunma yöntemlerini Türkçe olarak ele alan rehber.
+- [XSS Nedir ve Neden Hâlâ Tehlikeli? — Yusuf Barut](https://medium.com/@yusufbarut210/xss-nedir-ve-neden-hâlâ-tehlikeli-bir-siber-güvenlik-öğrencisinin-notları-0c9a89b3ad14) — XSS zafiyetinin temel çalışma mantığını, saldırı türlerini ve web uygulamalarında kullanıcı tarafında oluşturabileceği güvenlik risklerini Türkçe olarak anlatan rehber.
 
 ## 🌐 Ağ & Sistem Güvenliği
 - [Linux Dersleri — Ağ (Network) Temelleri Eğitimi](https://www.linuxdersleri.net/temel-network.html) — OSI/TCP-IP modeli, switch-router çalışması ve ağ protokollerini 8 bölümde anlatan ücretsiz Türkçe ağ temelleri serisi; aynı sitede Temel Linux eğitimi de var.
@@ -58,6 +62,7 @@
 - [Serdar Kurt Blog](https://www.serdarkurt.com.tr/) — Wazuh SIEM kurulumu, pfSense, honeypot (T-POT) ve Atomic Red Team gibi savunma araçlarını Türkçe teknik rehberlerle anlatan sistem güvenliği blogu.
 - [SiberTehdit](https://sibertehdit.com/) — Windows güvenliği, Active Directory, Detection Engineering, MITRE ATT&CK, Sigma, Windows Event ID, CVE analizi, Blue Team ve tehdit istihbaratı konularında Türkçe teknik içerikler sunan siber güvenlik platformu.
 - [Securtr](https://securtr.com/) — SIEM, Wazuh, tehdit istihbaratı, siber güvenlik ve yapay zekâ güvenliği alanlarında uygulamalı Türkçe rehberler, teknik analizler ve güvenlik içerikleri sunan platform.
+- [Altay Docs SOC Temelleri](https://docs.siberaltay.org/security-operation-center/soc-temelleri) — SOC (Security Operation Center) temellerini anlatan Altay Takımı dökümanı
 
 ## 🔬 Adli Bilişim & Zararlı Analizi
 - [BTK Akademi — Adli Bilişim Eğitimi](https://www.btkakademi.gov.tr/portal/course/adli-bilisime-giris-24376) — BTK'nın ücretsiz ve katılım sertifikalı Türkçe adli bilişim programı; dijital delil toplama, imaj alma ve adli inceleme süreçlerini video derslerle anlatıyor, bilirkişilik yapan akademisyen eğitmen tarafından hazırlanmış.

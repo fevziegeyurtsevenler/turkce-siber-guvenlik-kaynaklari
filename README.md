@@ -67,6 +67,7 @@
 | [OWASP Top 10 2017 Resmi Türkçe Çevirisi](https://github.com/OWASP/Top10/tree/master/2017/tr) | OWASP Top 10 2017'nin resmi Türkçe çevirisi: injection'dan XSS'e 10 riskin her biri için ayrı Türkçe markdown dosyaları ile geliştirici/testçi/yönetici rehberleri ve Türkçe sunum dosyası. | doküman |
 | [Hack 4 Career (Mert Sarıca)](https://www.mertsarica.com/) | 2009'dan beri yayında olan, sızma testi, zafiyet araştırması, oltalama analizi ve tehdit istihbaratı yazıları içeren köklü Türkçe (son yıllarda çift dilli) güvenlik araştırma blogu. | blog |
 | [TurkHackTeam — Bug Bounty Rehberi](https://www.turkhackteam.org/konular/bug-bounty-rehberi.1909918/) | Bug bounty'ye sıfırdan başlayanlar için HackerOne/Bugcrowd gibi platformları, P1-P5 zafiyet sınıflandırmasını ve Burp Suite/Nmap gibi araçları Türkçe anlatan başlangıç rehberi. | doküman |
+
 | [Turkcell Geleceği Yazanlar — Pentesting Eğitim Programı](https://gelecegiyazanlar.turkcell.com.tr/egitimler/pentesting) | Pentest temelleri, web/API sızma testleri, Burp Suite, Kali Linux ve kablosuz ağ güvenliğini ele alan ücretsiz Türkçe eğitim serisi. | kurs |
 | [OWASP Top 10 2021 Resmi Türkçe Çevirisi](https://owasp.org/Top10/2021/tr/) | Broken Access Control'den SSRF'e kadar 10 web uygulama riskini ve iyileştirme önerilerini içeren OWASP Top 10 2021'in resmi Türkçe çevirisi. | doküman |
 | [Web Uygulamaları Penetrasyon Testleri Metodolojileri](https://www.beyaz.net/tr/guvenlik/makaleler/web_uygulamalari_penetrasyon_testleri_metodolojileri.html) | Web pentest süreçlerini ve yaygın metodolojileri adım adım anlatan teknik makale. | blog |
@@ -75,6 +76,9 @@
 | [Cisco NetAcad - Etik Hacker](https://www.netacad.com/courses/ethical-hacker?courseLang=tr-TR) | Penetrasyon testi planlama, zafiyet değerlendirmesi ve saldırgan güvenlik metodolojilerini anlatan ücretsiz Türkçe eğitim. | kurs |
 
 | [Server-Side Request Forgery (SSRF) — Yusuf Barut](https://medium.com/@yusufbarut210/server-side-request-forgery-ssrf-0489d1d8760a) | SSRF zafiyetinin çalışma mantığını, Basic ve Blind SSRF türlerini, cloud metadata ve iç ağ senaryolarını, Burp Suite ile test yöntemlerini ve korunma tekniklerini uygulamalı olarak anlatan Türkçe rehber. | blog |
+| [Cross-Site Request Forgery (CSRF) — Yusuf Barut](https://medium.com/@yusufbarut210/cross-site-request-forgery-csrf-kullanıcının-haberi-olmadan-yapılan-saldırılar-a4102b2ff647) | CSRF saldırılarının çalışma mantığını, kullanıcı oturumlarının nasıl kötüye kullanılabildiğini, saldırı senaryolarını ve korunma yöntemlerini Türkçe olarak anlatan rehber. | blog |
+| [SQL Injection — Yusuf Barut](https://medium.com/@yusufbarut210/sql-injection-web-uygulamalarının-en-eski-ve-en-tehlikeli-düşmanı-f409e0736079) | SQL Injection zafiyetinin çalışma mantığını, saldırı türlerini, veritabanı sorguları üzerinden oluşan riskleri ve temel korunma yöntemlerini Türkçe olarak ele alan rehber. | blog |
+| [XSS Nedir ve Neden Hâlâ Tehlikeli? — Yusuf Barut](https://medium.com/@yusufbarut210/xss-nedir-ve-neden-hâlâ-tehlikeli-bir-siber-güvenlik-öğrencisinin-notları-0c9a89b3ad14) | XSS zafiyetinin temel çalışma mantığını, saldırı türlerini ve web uygulamalarında kullanıcı tarafında oluşturabileceği güvenlik risklerini Türkçe olarak anlatan rehber. | blog |
 ## 🌐 Ağ & Sistem Güvenliği
 
 > Ağ temelleri, Linux güvenliği ve sistem sıkılaştırma üzerine Türkçe anlatımlar.

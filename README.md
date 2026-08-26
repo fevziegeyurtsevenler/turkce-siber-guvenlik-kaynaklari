@@ -59,6 +59,7 @@
 | [Hack 4 Career (Mert Sarıca)](https://www.mertsarica.com/) | 2009'dan beri yayında olan, sızma testi, zafiyet araştırması, oltalama analizi ve tehdit istihbaratı yazıları içeren köklü Türkçe (son yıllarda çift dilli) güvenlik araştırma blogu. | blog |
 | [TurkHackTeam — Bug Bounty Rehberi](https://www.turkhackteam.org/konular/bug-bounty-rehberi.1909918/) | Bug bounty'ye sıfırdan başlayanlar için HackerOne/Bugcrowd gibi platformları, P1-P5 zafiyet sınıflandırmasını ve Burp Suite/Nmap gibi araçları Türkçe anlatan başlangıç rehberi. | doküman |
 
+| [Server-Side Request Forgery (SSRF) — Yusuf Barut](https://medium.com/@yusufbarut210/server-side-request-forgery-ssrf-0489d1d8760a) | SSRF zafiyetinin çalışma mantığını, Basic ve Blind SSRF türlerini, cloud metadata ve iç ağ senaryolarını, Burp Suite ile test yöntemlerini ve korunma tekniklerini uygulamalı olarak anlatan Türkçe rehber. | blog |
 ## 🌐 Ağ & Sistem Güvenliği
 
 > Ağ temelleri, Linux güvenliği ve sistem sıkılaştırma üzerine Türkçe anlatımlar.

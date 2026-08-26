@@ -6,7 +6,7 @@
 
 **Türkçe siber güvenlik ekosisteminin tamamı — doğrulanmış, kategorilenmiş, topluluk eliyle büyüyen tek dizin.**
 
-[![Kaynak Sayısı](https://img.shields.io/badge/kaynak-91-1C2957?style=flat-square)](#-i̇çindekiler)
+[![Kaynak Sayısı](https://img.shields.io/badge/kaynak-92-1C2957?style=flat-square)](#-i̇çindekiler)
 [![Link Kontrolü](https://img.shields.io/github/actions/workflow/status/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari/link-kontrol.yml?style=flat-square&label=linkler&color=2E4FD0)](https://github.com/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari/actions/workflows/link-kontrol.yml)
 [![PR'lar Açık](https://img.shields.io/badge/PR'lar-a%C3%A7%C4%B1k-2E4FD0?style=flat-square)](CONTRIBUTING.md)
 [![Katkıcılar](https://img.shields.io/github/contributors/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari?style=flat-square&label=katk%C4%B1c%C4%B1&color=1C2957)](https://github.com/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari/graphs/contributors)
@@ -22,7 +22,7 @@
 
 ## 📚 İçindekiler
 
-- [🚀 Başlangıç & Eğitim](#baslangic-egitim) `16`
+- [🚀 Başlangıç & Eğitim](#baslangic-egitim) `17`
 - [🕸️ Web Güvenliği & Sızma Testi](#web-guvenligi-sizma-testi) `10`
 - [🌐 Ağ & Sistem Güvenliği](#ag-sistem-guvenligi) `11`
 - [🛡️ Savunma — Blue Team & SOC](#savunma-blue-team-soc) `13`
@@ -42,7 +42,7 @@
 | Kaynak | Açıklama | Tür |
 |--------|----------|-----|
 | [BTK Akademi — Siber Güvenlik Eğitimleri](https://www.btkakademi.gov.tr/portal/catalog?categoryId=1003) | Devletin (BTK) resmi eğitim platformunda Siber Güvenliğe Giriş'ten Siber Güvenlik Analisti serisine kadar yüzlerce ücretsiz Türkçe video kurs ve sınavla katılım sertifikası sunar. | kurs |
-| [Herkes İçin Siber Güvenlik](https://herkesicinsiberguvenlik.net/) | Teknik bilgisi olmayanlar dahil herkese yönelik, insan kaynaklı siber riskleri anlatan tamamen ücretsiz Türkçe video eğitim ve sertifika sınavı projesi. | kurs |
+| [Herkes İçin Siber Güvenlik](https://herkesicinsiberguvenlik.net/) | Teknik bilgisi olmayanlar dahilHerkese yönelik, insan kaynaklı siber riskleri anlatan tamamen ücretsiz Türkçe video eğitim ve sertifika sınavı projesi. | kurs |
 | [Türkiye Siber Vatan Programı](https://www.sibervatan.org/) | Lise ve üniversite öğrencilerini sıfırdan siber güvenlik uzmanlığına taşıyan, online eğitim + uygulamalı lab + CTF aşamalı ulusal ücretsiz yetiştirme programı (0'dan 1'e, BootCamp, TeamsCamp). | platform |
 | [Mehmet İnce — Siber Güvenlik Alanında Kendimi Nasıl Geliştirebilirim?](https://tr.mehmetince.net/siber-guvenlik-alaninda-kendimi-nasil-gelistirebilirim-nereden-baslamaliyim/) | Tanınmış Türk güvenlik araştırmacısının yeni başlayanlar için yazdığı yol haritası: İngilizce, Linux, üniversite derslerinin rolü, ücretsiz kaynaklarla çalışma ve uzmanlık alanı seçimi üzerine somut tavsiyeler. | blog |
 | [SİBERAY](https://www.siberay.com/) | İçişleri Bakanlığı Siber Suçlarla Mücadele Daire Başkanlığı'nın; internet güvenliği, zararlı yazılımlar, teknoloji bağımlılığı ve dijital okuryazarlık konularında bireyler, ebeveynler ve öğretmenler için ücretsiz Türkçe farkındalık içerikleri sunan resmi platformu. | site |
@@ -56,10 +56,8 @@
 | [Cisco Networking Academy — Siber Güvenliğe Giriş](https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=tr-TR) | Cisco tarafından hazırlanan; siber tehditleri, saldırı yöntemlerini, kişisel ve kurumsal verilerin korunmasını ve siber güvenlik kariyerlerini etkileşimli içeriklerle anlatan ücretsiz Türkçe başlangıç eğitimi. | kurs |
 | [Nmap’e Giriş — Portlar, Servisler ve Temel Tarama Teknikleri](https://bilalkalayci.medium.com/nmape-giri%C5%9F-portlar-servisler-ve-temel-tarama-teknikleri-dd6326433946) | Temeli sıfır veya sıfıra yakın olan araştırmacılara anlaşılır betimlemelerle nmap'i anlatan Türkçe blog yazısı. | blog |
 | [Siber Güvenlik Eğitimi Türkçe Rehber](https://github.com/EnginArslan49/siber-guvenlik-egitimi-turkce-kapsamli-rehber) | Temel kavramlar, saldırı türleri, SOME/SOC ve kariyer/sertifika konularını kapsayan ücretsiz Türkçe başlangıç rehberi. | repo |
-<<<<<<< HEAD
-=======
 | [Metasploit Framework (MSF) Temel Kullanım Rehberi: Sömürü Mimarisini Anlamak](https://bilalkalayci.medium.com/metasploit-framework-msf-temel-kullan%C4%B1m-rehberi-s%C3%B6m%C3%BCr%C3%BC-mimarisini-anlamak-c3968080f536?sharedUserId=bilalkalayci) | Keşiften yetki yükseltmeye Metasploit mimarisini Kali Linux ve Metasploitable 2 uygulamalı laboratuvar senaryosu ve çıktılarıyla açıklayan pratik Türkçe blog rehberi. | blog |
->>>>>>> 0235565 (kaynak: <Metasploit Framework (MSF) Temel Kullanım Rehberi: Sömürü Mimarisini Anlamak> eklendi)
+| [Sızma Testi ve Güvenlik Uygulamaları El Kitabı (CEH Rehberi)](https://drive.google.com/file/d/1pFE8fbzVGo_4g8kLVgLRaexoShRfo4U6/view?usp=drivesdk) | Bilgi toplamadan zararlı yazılımlara, web ve mobil güvenlikten kriptografiye kadar 20 CEH modülünü adım adım ve uygulamalı komut örnekleriyle açıklayan Türkçe başvuru kitabı. | doküman |
 
 ## 🕸️ Web Güvenliği & Sızma Testi
 
@@ -180,7 +178,7 @@
 | Kaynak | Açıklama | Tür |
 |--------|----------|-----|
 | [USOM — Ulusal Siber Olaylara Müdahale Merkezi](https://www.usom.gov.tr/) | Türkiye'nin resmi siber olay müdahale merkezi; zararlı bağlantı listeleri, zafiyet bildirimleri, güvenlik duyuruları ve siber ihbar mekanizması sunar. | site |
-| [T.C. Siber Güvenlik Başkanlığı](https://www.siberguvenlik.gov.tr/) | Türkiye'nin siber güvenlikten sorumlu resmi çatı kurumunun sitesi; ulusal siber güvenlik politikaları, mevzuat ve kurumsal duyuruların birincil kaynağı. | site |
+| [T.C. Siber Güvenlik Başkanlığı](https://www.siberguvenlik.gov.tr/) | Türkiye'nin siber güvenlikten sorumlu resmi çatı kurumunun sitesi; ulusal siber güvenlik politikaları, mevzuat ve kurumsal duyuruların  birincil kaynağı. | site |
 | [Siber Kulüpler Birliği](https://siberkulupler.com/) | 2018'den beri Türkiye'deki 50'den fazla üniversite siber güvenlik kulübünü tek çatıda toplayan öğrenci ağı; etkinlik, eğitim programı, kurs ve staj duyurularının merkezi. | topluluk |
 | [STM ThinkTech — Siber Tehdit Durum Raporu](https://thinktech.stm.com.tr/tr) | STM'nin üç ayda bir yayımladığı Türkçe Siber Tehdit Durum Raporları ve teknoloji analizleri. | doküman |
 | [PwnLabMe](https://pwnlab.me/) | Sızma testi, zararlı yazılım analizi, ağ güvenliği ve CTF konularında Türkçe soru-cevap, eğitim içerikleri ve kariyer/sertifika rehberleri barındıran aktif siber güvenlik topluluk forumu. | topluluk |
@@ -221,4 +219,3 @@ Kabul kriterleri kısaca: **Türkçe içerik · canlı link · tek cümlelik som
 ⭐ *Faydalı bulduysan yıldızla — daha çok kişiye ulaşmasını sağlarsın.*
 
 </div>
-

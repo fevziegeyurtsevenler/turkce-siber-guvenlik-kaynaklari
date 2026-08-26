@@ -74,6 +74,7 @@
 | [Eyüp Turan — Siber Güvenlik Lab & Blog](https://eyupturan.com/) | SQLi, XSS, IDOR, LFI ve file upload gibi web zafiyetlerini DVWA/bWAPP lab'larıyla Türkçe adım adım anlatan aktif pentest blogu. | blog |
 | [Cisco NetAcad - Etik Hacker](https://www.netacad.com/courses/ethical-hacker?courseLang=tr-TR) | Penetrasyon testi planlama, zafiyet değerlendirmesi ve saldırgan güvenlik metodolojilerini anlatan ücretsiz Türkçe eğitim. | kurs |
 
+| [Server-Side Request Forgery (SSRF) — Yusuf Barut](https://medium.com/@yusufbarut210/server-side-request-forgery-ssrf-0489d1d8760a) | SSRF zafiyetinin çalışma mantığını, Basic ve Blind SSRF türlerini, cloud metadata ve iç ağ senaryolarını, Burp Suite ile test yöntemlerini ve korunma tekniklerini uygulamalı olarak anlatan Türkçe rehber. | blog |
 ## 🌐 Ağ & Sistem Güvenliği
 
 > Ağ temelleri, Linux güvenliği ve sistem sıkılaştırma üzerine Türkçe anlatımlar.

@@ -25,13 +25,13 @@
 - [🚀 Başlangıç & Eğitim](#baslangic-egitim) `17`
 - [🕸️ Web Güvenliği & Sızma Testi](#web-guvenligi-sizma-testi) `10`
 - [🌐 Ağ & Sistem Güvenliği](#ag-sistem-guvenligi) `11`
-- [🛡️ Savunma — Blue Team & SOC](#savunma-blue-team-soc) `13`
+- [🛡️ Savunma — Blue Team & SOC](#savunma-blue-team-soc) `16`
 - [🔬 Adli Bilişim & Zararlı Analizi](#adli-bilisim-zararli-analizi) `7`
 - [🤖 Yapay Zekâ Güvenliği](#yapay-zeka-guvenligi) `3`
 - [🚩 CTF & Pratik](#ctf-pratik) `10`
-- [📺 YouTube, Blog & Podcast](#youtube-blog-podcast) `9`
+- [📺 YouTube, Blog & Podcast](#youtube-blog-podcast) `11`
 - [🏛️ Kurumlar, Topluluklar & Kariyer](#kurumlar-topluluklar-kariyer) `8`
-- [🗂️ Diğer Türkçe Derlemeler](#diger-turkce-derlemeler) `4`
+- [🗂️ Diğer Türkçe Derlemeler](#diger-turkce-derlemeler) `5`
 - [🤝 Katkı](#-katkı)
 
 
@@ -69,6 +69,7 @@
 | [OWASP Top 10 2017 Resmi Türkçe Çevirisi](https://github.com/OWASP/Top10/tree/master/2017/tr) | OWASP Top 10 2017'nin resmi Türkçe çevirisi: injection'dan XSS'e 10 riskin her biri için ayrı Türkçe markdown dosyaları ile geliştirici/testçi/yönetici rehberleri ve Türkçe sunum dosyası. | doküman |
 | [Hack 4 Career (Mert Sarıca)](https://www.mertsarica.com/) | 2009'dan beri yayında olan, sızma testi, zafiyet araştırması, oltalama analizi ve tehdit istihbaratı yazıları içeren köklü Türkçe (son yıllarda çift dilli) güvenlik araştırma blogu. | blog |
 | [TurkHackTeam — Bug Bounty Rehberi](https://www.turkhackteam.org/konular/bug-bounty-rehberi.1909918/) | Bug bounty'ye sıfırdan başlayanlar için HackerOne/Bugcrowd gibi platformları, P1-P5 zafiyet sınıflandırmasını ve Burp Suite/Nmap gibi araçları Türkçe anlatan başlangıç rehberi. | doküman |
+
 | [Turkcell Geleceği Yazanlar — Pentesting Eğitim Programı](https://gelecegiyazanlar.turkcell.com.tr/egitimler/pentesting) | Pentest temelleri, web/API sızma testleri, Burp Suite, Kali Linux ve kablosuz ağ güvenliğini ele alan ücretsiz Türkçe eğitim serisi. | kurs |
 | [OWASP Top 10 2021 Resmi Türkçe Çevirisi](https://owasp.org/Top10/2021/tr/) | Broken Access Control'den SSRF'e kadar 10 web uygulama riskini ve iyileştirme önerilerini içeren OWASP Top 10 2021'in resmi Türkçe çevirisi. | doküman |
 | [Web Uygulamaları Penetrasyon Testleri Metodolojileri](https://www.beyaz.net/tr/guvenlik/makaleler/web_uygulamalari_penetrasyon_testleri_metodolojileri.html) | Web pentest süreçlerini ve yaygın metodolojileri adım adım anlatan teknik makale. | blog |
@@ -76,6 +77,10 @@
 | [Eyüp Turan — Siber Güvenlik Lab & Blog](https://eyupturan.com/) | SQLi, XSS, IDOR, LFI ve file upload gibi web zafiyetlerini DVWA/bWAPP lab'larıyla Türkçe adım adım anlatan aktif pentest blogu. | blog |
 | [Cisco NetAcad - Etik Hacker](https://www.netacad.com/courses/ethical-hacker?courseLang=tr-TR) | Penetrasyon testi planlama, zafiyet değerlendirmesi ve saldırgan güvenlik metodolojilerini anlatan ücretsiz Türkçe eğitim. | kurs |
 
+| [Server-Side Request Forgery (SSRF) — Yusuf Barut](https://medium.com/@yusufbarut210/server-side-request-forgery-ssrf-0489d1d8760a) | SSRF zafiyetinin çalışma mantığını, Basic ve Blind SSRF türlerini, cloud metadata ve iç ağ senaryolarını, Burp Suite ile test yöntemlerini ve korunma tekniklerini uygulamalı olarak anlatan Türkçe rehber. | blog |
+| [Cross-Site Request Forgery (CSRF) — Yusuf Barut](https://medium.com/@yusufbarut210/cross-site-request-forgery-csrf-kullanıcının-haberi-olmadan-yapılan-saldırılar-a4102b2ff647) | CSRF saldırılarının çalışma mantığını, kullanıcı oturumlarının nasıl kötüye kullanılabildiğini, saldırı senaryolarını ve korunma yöntemlerini Türkçe olarak anlatan rehber. | blog |
+| [SQL Injection — Yusuf Barut](https://medium.com/@yusufbarut210/sql-injection-web-uygulamalarının-en-eski-ve-en-tehlikeli-düşmanı-f409e0736079) | SQL Injection zafiyetinin çalışma mantığını, saldırı türlerini, veritabanı sorguları üzerinden oluşan riskleri ve temel korunma yöntemlerini Türkçe olarak ele alan rehber. | blog |
+| [XSS Nedir ve Neden Hâlâ Tehlikeli? — Yusuf Barut](https://medium.com/@yusufbarut210/xss-nedir-ve-neden-hâlâ-tehlikeli-bir-siber-güvenlik-öğrencisinin-notları-0c9a89b3ad14) | XSS zafiyetinin temel çalışma mantığını, saldırı türlerini ve web uygulamalarında kullanıcı tarafında oluşturabileceği güvenlik risklerini Türkçe olarak anlatan rehber. | blog |
 ## 🌐 Ağ & Sistem Güvenliği
 
 > Ağ temelleri, Linux güvenliği ve sistem sıkılaştırma üzerine Türkçe anlatımlar.
@@ -113,6 +118,9 @@
 | [Turkcell Geleceği Yazanlar — Siber Güvenlik Analisti Eğitim Programı](https://gelecegiyazanlar.turkcell.com.tr/egitimler/siber-guvenlik-analisti) | Ağ temelleri, bilgi toplama, zafiyet analizi ve savunma mekanizmalarını modüler olarak ele alan ücretsiz Türkçe analist eğitimi. | kurs |
 | [BTK Akademi - SIEM Temelleri](https://www.btkakademi.gov.tr/portal/course/siem-temelleri-29958) | SIEM ürünlerinin çalışma mantığını, log korelasyonunu ve Splunk/Kibana gibi temel araçları anlatan ücretsiz Türkçe eğitim. | kurs |
 | [Serdar Kurt Blog](https://www.serdarkurt.com.tr/) | Wazuh SIEM kurulumu, pfSense, honeypot (T-POT) ve Atomic Red Team gibi savunma araçlarını Türkçe teknik rehberlerle anlatan sistem güvenliği blogu. | blog |
+| [SiberTehdit](https://sibertehdit.com/) | Windows güvenliği, Active Directory, Detection Engineering, MITRE ATT&CK, Sigma, Windows Event ID, CVE analizi, Blue Team ve tehdit istihbaratı konularında Türkçe teknik içerikler sunan siber güvenlik platformu. | site |
+| [Securtr](https://securtr.com/) | SIEM, Wazuh, tehdit istihbaratı, siber güvenlik ve yapay zekâ güvenliği alanlarında uygulamalı Türkçe rehberler, teknik analizler ve güvenlik içerikleri sunan platform. | blog |
+| [Altay Docs SOC Temelleri](https://docs.siberaltay.org/security-operation-center/soc-temelleri) | SOC (Security Operation Center) temellerini anlatan Altay Takımı dökümanı | doküman |
 
 ## 🔬 Adli Bilişim & Zararlı Analizi
 
@@ -170,6 +178,8 @@
 | [Siberin Günlüğü](https://podcasts.apple.com/tr/podcast/siberin-g%C3%BCnl%C3%BC%C4%9F%C3%BC/id1456842720) | Türkiye ve dünyadaki siber güvenlik gelişmelerini, tehditleri ve sektör gündemini Türkçe bölümlerle ele alan podcast serisi. | podcast |
 | [Siber Kulüpler Birliği Blog](https://blog.siberkulupler.com/) | Üniversite siber güvenlik topluluklarının hazırladığı ağ güvenliği, zararlı analizi ve CTF çözümlerini içeren Türkçe teknik makale yayını. | blog |
 | [Siber Havadis](https://siberhavadis.com/) | Üniversite öğrencilerinin hazırladığı; CVE, mevzuat ve yapay zekâ güvenliği gündemini Türkçe haber-analizlerle takip eden siber güvenlik haber sitesi. | site |
+| [Can Değer YouTube Kanalı](https://www.youtube.com/@candeger) | Siber güvenlik, sızma testleri ve teknoloji üzerine eğitici Türkçe videolar ve canlı yayınlar sunan YouTube kanalı. | youtube |
+| [Efe Görkem Ümit — Python'la Etik Hacker Araçları](https://www.youtube.com/playlist?list=PLaZoPjR0BnOECKnPEUqtbH47TiME4wWEN) | Python ile port tarayıcı, ağ aracı gibi etik hacker araçlarını sıfırdan yazmayı adım adım gösteren Türkçe video serisi. | youtube |
 
 ## 🏛️ Kurumlar, Topluluklar & Kariyer
 
@@ -196,6 +206,7 @@
 | [hackercamp](https://github.com/halit/hackercamp) | "Enine boyuna siber güvenlik" — aktif olarak güncellenen kapsamlı Türkçe eğitim ve içerik reposu. | repo |
 | [Siber Güvenlik Rehberi](https://github.com/cumakurt/Siber_Guvenlik_Rehberi) | Temel kavramlardan uygulamaya Türkçe siber güvenlik eğitim rehberi. | repo |
 | [Türkçe Kaynaklar — Siber Güvenlik Bölümü](https://turkcekaynaklar.org/kaynaklar) | OWASP Top 10 Türkçe çevirisi, penetrasyon testi ve zararlı yazılım analizi dahil topluluk derlemesi ücretsiz Türkçe kurs/video/doküman dizini; seviyeye göre filtrelenebilen 43 kaynak listeler. | site |
+| [ASM-Cloud-Tools](https://github.com/qw3r1y/ASM-Cloud-Tools) | Cloud ve attack surface management süreçlerinde kullanılabilecek açık kaynak güvenlik araçlarını bir araya getiren araç koleksiyonu. | repo |
 
 
 ---

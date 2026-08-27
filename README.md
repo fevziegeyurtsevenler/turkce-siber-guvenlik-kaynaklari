@@ -6,7 +6,7 @@
 
 **Türkçe siber güvenlik ekosisteminin tamamı — doğrulanmış, kategorilenmiş, topluluk eliyle büyüyen tek dizin.**
 
-[![Kaynak Sayısı](https://img.shields.io/badge/kaynak-101-1C2957?style=flat-square)](#-i̇çindekiler)
+[![Kaynak Sayısı](https://img.shields.io/badge/kaynak-102-1C2957?style=flat-square)](#-i̇çindekiler)
 [![Link Kontrolü](https://img.shields.io/github/actions/workflow/status/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari/link-kontrol.yml?style=flat-square&label=linkler&color=2E4FD0)](https://github.com/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari/actions/workflows/link-kontrol.yml)
 [![PR'lar Açık](https://img.shields.io/badge/PR'lar-a%C3%A7%C4%B1k-2E4FD0?style=flat-square)](CONTRIBUTING.md)
 [![Katkıcılar](https://img.shields.io/github/contributors/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari?style=flat-square&label=katk%C4%B1c%C4%B1&color=1C2957)](https://github.com/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari/graphs/contributors)
@@ -23,7 +23,7 @@
 ## 📚 İçindekiler
 
 - [🚀 Başlangıç & Eğitim](#baslangic-egitim) `15`
-- [🕸️ Web Güvenliği & Sızma Testi](#web-guvenligi-sizma-testi) `15`
+- [🕸️ Web Güvenliği & Sızma Testi](#web-guvenligi-sizma-testi) `16`
 - [🌐 Ağ & Sistem Güvenliği](#ag-sistem-guvenligi) `11`
 - [🛡️ Savunma — Blue Team & SOC](#savunma-blue-team-soc) `16`
 - [🔬 Adli Bilişim & Zararlı Analizi](#adli-bilisim-zararli-analizi) `7`
@@ -60,6 +60,7 @@
 ## 🕸️ Web Güvenliği & Sızma Testi
 
 > Web zafiyetleri, pentest ve bug bounty üzerine Türkçe rehberler, çeviriler ve topluluklar.
+
 | Kaynak | Açıklama | Tür |
 |--------|----------|-----|
 | [Bughane Academy](https://bughaneacademy.com/) | XSS, SQL injection, IDOR, SSRF ve CSRF gibi web zafiyetleri üzerine gerçek bug bounty write-up'ları, payload/bypass teknikleri ve mentorluk alanı sunan ücretsiz Türkçe bug bounty topluluğu. | topluluk |
@@ -77,6 +78,7 @@
 | [SQL Injection — Yusuf Barut](https://medium.com/@yusufbarut210/sql-injection-web-uygulamalarının-en-eski-ve-en-tehlikeli-düşmanı-f409e0736079) | SQL Injection zafiyetinin çalışma mantığını, saldırı türlerini, veritabanı sorguları üzerinden oluşan riskleri ve temel korunma yöntemlerini Türkçe olarak ele alan rehber. | blog |
 | [XSS Nedir ve Neden Hâlâ Tehlikeli? — Yusuf Barut](https://medium.com/@yusufbarut210/xss-nedir-ve-neden-hâlâ-tehlikeli-bir-siber-güvenlik-öğrencisinin-notları-0c9a89b3ad14) | XSS zafiyetinin temel çalışma mantığını, saldırı türlerini ve web uygulamalarında kullanıcı tarafında oluşturabileceği güvenlik risklerini Türkçe olarak anlatan rehber. | blog |
 | [Metasploit Framework (MSF) Temel Kullanım Rehberi: Sömürü Mimarisini Anlamak](https://bilalkalayci.medium.com/metasploit-framework-msf-temel-kullan%C4%B1m-rehberi-s%C3%B6m%C3%BCr%C3%BC-mimarisini-anlamak-c3968080f536?sharedUserId=bilalkalayci) | Keşiften yetki yükseltmeye Metasploit mimarisini Kali Linux ve Metasploitable 2 uygulamalı laboratuvar senaryosu ve çıktılarıyla açıklayan pratik Türkçe blog rehberi. | blog |
+| [Sızma Testi ve Güvenlik Uygulamaları El Kitabı](https://drive.google.com/file/d/1pFE8fbzVGo_4g8kLVgLRaexoShRfo4U6/view?usp=drivesdk) | Bilgi toplamadan zararlı yazılımlara, web ve mobil güvenlikten kriptografiye kadar 20 modülü adım adım ve uygulamalı komut örnekleriyle açıklayan, özgün 51 sayfalık Türkçe sızma testi başvuru kitabı (Google Drive PDF). | doküman |
 
 ## 🌐 Ağ & Sistem Güvenliği
 

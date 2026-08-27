@@ -6,7 +6,7 @@
 
 **Türkçe siber güvenlik ekosisteminin tamamı — doğrulanmış, kategorilenmiş, topluluk eliyle büyüyen tek dizin.**
 
-[![Kaynak Sayısı](https://img.shields.io/badge/kaynak-100-1C2957?style=flat-square)](#-i̇çindekiler)
+[![Kaynak Sayısı](https://img.shields.io/badge/kaynak-101-1C2957?style=flat-square)](#-i̇çindekiler)
 [![Link Kontrolü](https://img.shields.io/github/actions/workflow/status/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari/link-kontrol.yml?style=flat-square&label=linkler&color=2E4FD0)](https://github.com/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari/actions/workflows/link-kontrol.yml)
 [![PR'lar Açık](https://img.shields.io/badge/PR'lar-a%C3%A7%C4%B1k-2E4FD0?style=flat-square)](CONTRIBUTING.md)
 [![Katkıcılar](https://img.shields.io/github/contributors/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari?style=flat-square&label=katk%C4%B1c%C4%B1&color=1C2957)](https://github.com/fevziegeyurtsevenler/turkce-siber-guvenlik-kaynaklari/graphs/contributors)
@@ -23,7 +23,7 @@
 ## 📚 İçindekiler
 
 - [🚀 Başlangıç & Eğitim](#baslangic-egitim) `15`
-- [🕸️ Web Güvenliği & Sızma Testi](#web-guvenligi-sizma-testi) `14`
+- [🕸️ Web Güvenliği & Sızma Testi](#web-guvenligi-sizma-testi) `15`
 - [🌐 Ağ & Sistem Güvenliği](#ag-sistem-guvenligi) `11`
 - [🛡️ Savunma — Blue Team & SOC](#savunma-blue-team-soc) `16`
 - [🔬 Adli Bilişim & Zararlı Analizi](#adli-bilisim-zararli-analizi) `7`
@@ -60,25 +60,24 @@
 ## 🕸️ Web Güvenliği & Sızma Testi
 
 > Web zafiyetleri, pentest ve bug bounty üzerine Türkçe rehberler, çeviriler ve topluluklar.
-
 | Kaynak | Açıklama | Tür |
 |--------|----------|-----|
 | [Bughane Academy](https://bughaneacademy.com/) | XSS, SQL injection, IDOR, SSRF ve CSRF gibi web zafiyetleri üzerine gerçek bug bounty write-up'ları, payload/bypass teknikleri ve mentorluk alanı sunan ücretsiz Türkçe bug bounty topluluğu. | topluluk |
 | [OWASP Top 10 2017 Resmi Türkçe Çevirisi](https://github.com/OWASP/Top10/tree/master/2017/tr) | OWASP Top 10 2017'nin resmi Türkçe çevirisi: injection'dan XSS'e 10 riskin her biri için ayrı Türkçe markdown dosyaları ile geliştirici/testçi/yönetici rehberleri ve Türkçe sunum dosyası. | doküman |
 | [Hack 4 Career (Mert Sarıca)](https://www.mertsarica.com/) | 2009'dan beri yayında olan, sızma testi, zafiyet araştırması, oltalama analizi ve tehdit istihbaratı yazıları içeren köklü Türkçe (son yıllarda çift dilli) güvenlik araştırma blogu. | blog |
 | [TurkHackTeam — Bug Bounty Rehberi](https://www.turkhackteam.org/konular/bug-bounty-rehberi.1909918/) | Bug bounty'ye sıfırdan başlayanlar için HackerOne/Bugcrowd gibi platformları, P1-P5 zafiyet sınıflandırmasını ve Burp Suite/Nmap gibi araçları Türkçe anlatan başlangıç rehberi. | doküman |
-
 | [Turkcell Geleceği Yazanlar — Pentesting Eğitim Programı](https://gelecegiyazanlar.turkcell.com.tr/egitimler/pentesting) | Pentest temelleri, web/API sızma testleri, Burp Suite, Kali Linux ve kablosuz ağ güvenliğini ele alan ücretsiz Türkçe eğitim serisi. | kurs |
 | [OWASP Top 10 2021 Resmi Türkçe Çevirisi](https://owasp.org/Top10/2021/tr/) | Broken Access Control'den SSRF'e kadar 10 web uygulama riskini ve iyileştirme önerilerini içeren OWASP Top 10 2021'in resmi Türkçe çevirisi. | doküman |
 | [Web Uygulamaları Penetrasyon Testleri Metodolojileri](https://www.beyaz.net/tr/guvenlik/makaleler/web_uygulamalari_penetrasyon_testleri_metodolojileri.html) | Web pentest süreçlerini ve yaygın metodolojileri adım adım anlatan teknik makale. | blog |
 | [Docker ile Web Uygulama Pentest Laboratuvarı Kurma](https://ondernet.net/docker-ile-web-uygulama-pentest-laboratuvari-kurma) | Kali, Juice Shop, DVWA, bWAPP ve WebGoat ile Docker üzerinde kendi pentest lab'ını kurmayı anlatan rehber. | blog |
 | [Eyüp Turan — Siber Güvenlik Lab & Blog](https://eyupturan.com/) | SQLi, XSS, IDOR, LFI ve file upload gibi web zafiyetlerini DVWA/bWAPP lab'larıyla Türkçe adım adım anlatan aktif pentest blogu. | blog |
 | [Cisco NetAcad - Etik Hacker](https://www.netacad.com/courses/ethical-hacker?courseLang=tr-TR) | Penetrasyon testi planlama, zafiyet değerlendirmesi ve saldırgan güvenlik metodolojilerini anlatan ücretsiz Türkçe eğitim. | kurs |
-
 | [Server-Side Request Forgery (SSRF) — Yusuf Barut](https://medium.com/@yusufbarut210/server-side-request-forgery-ssrf-0489d1d8760a) | SSRF zafiyetinin çalışma mantığını, Basic ve Blind SSRF türlerini, cloud metadata ve iç ağ senaryolarını, Burp Suite ile test yöntemlerini ve korunma tekniklerini uygulamalı olarak anlatan Türkçe rehber. | blog |
 | [Cross-Site Request Forgery (CSRF) — Yusuf Barut](https://medium.com/@yusufbarut210/cross-site-request-forgery-csrf-kullanıcının-haberi-olmadan-yapılan-saldırılar-a4102b2ff647) | CSRF saldırılarının çalışma mantığını, kullanıcı oturumlarının nasıl kötüye kullanılabildiğini, saldırı senaryolarını ve korunma yöntemlerini Türkçe olarak anlatan rehber. | blog |
 | [SQL Injection — Yusuf Barut](https://medium.com/@yusufbarut210/sql-injection-web-uygulamalarının-en-eski-ve-en-tehlikeli-düşmanı-f409e0736079) | SQL Injection zafiyetinin çalışma mantığını, saldırı türlerini, veritabanı sorguları üzerinden oluşan riskleri ve temel korunma yöntemlerini Türkçe olarak ele alan rehber. | blog |
 | [XSS Nedir ve Neden Hâlâ Tehlikeli? — Yusuf Barut](https://medium.com/@yusufbarut210/xss-nedir-ve-neden-hâlâ-tehlikeli-bir-siber-güvenlik-öğrencisinin-notları-0c9a89b3ad14) | XSS zafiyetinin temel çalışma mantığını, saldırı türlerini ve web uygulamalarında kullanıcı tarafında oluşturabileceği güvenlik risklerini Türkçe olarak anlatan rehber. | blog |
+| [Metasploit Framework (MSF) Temel Kullanım Rehberi: Sömürü Mimarisini Anlamak](https://bilalkalayci.medium.com/metasploit-framework-msf-temel-kullan%C4%B1m-rehberi-s%C3%B6m%C3%BCr%C3%BC-mimarisini-anlamak-c3968080f536?sharedUserId=bilalkalayci) | Keşiften yetki yükseltmeye Metasploit mimarisini Kali Linux ve Metasploitable 2 uygulamalı laboratuvar senaryosu ve çıktılarıyla açıklayan pratik Türkçe blog rehberi. | blog |
+
 ## 🌐 Ağ & Sistem Güvenliği
 
 > Ağ temelleri, Linux güvenliği ve sistem sıkılaştırma üzerine Türkçe anlatımlar.

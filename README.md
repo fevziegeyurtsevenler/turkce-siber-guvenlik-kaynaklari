@@ -57,7 +57,7 @@
 | [Cisco Networking Academy — Siber Güvenliğe Giriş](https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=tr-TR) | Cisco tarafından hazırlanan; siber tehditleri, saldırı yöntemlerini, kişisel ve kurumsal verilerin korunmasını ve siber güvenlik kariyerlerini etkileşimli içeriklerle anlatan ücretsiz Türkçe başlangıç eğitimi. | kurs |
 | [Nmap’e Giriş — Portlar, Servisler ve Temel Tarama Teknikleri](https://bilalkalayci.medium.com/nmape-giri%C5%9F-portlar-servisler-ve-temel-tarama-teknikleri-dd6326433946) | Temeli sıfır veya sıfıra yakın olan araştırmacılara anlaşılır betimlemelerle nmap'i anlatan Türkçe blog yazısı. | blog |
 | [Siber Güvenlik Eğitimi Türkçe Rehber](https://github.com/EnginArslan49/siber-guvenlik-egitimi-turkce-kapsamli-rehber) | Temel kavramlar, saldırı türleri, SOME/SOC ve kariyer/sertifika konularını kapsayan ücretsiz Türkçe başlangıç rehberi. | repo |
-
+* [ODTÜ SİMER — Kriptoloji ve Veri Güvenliği Eğitimi (Udemy)](https://www.udemy.com/course/odtu-simer-kriptoloji-ve-veri-guvenligi-egitimi/) - ODTÜ Siber Güvenlik Uygulama ve Araştırma Merkezi (SİMER) tarafından Udemy üzerinden sunulan; simetrik/asimetrik şifreleme, hash fonksiyonları ve temel kriptografi kavramlarını anlatan ücretsiz Türkçe video kursu. `kurs`
 ## 🕸️ Web Güvenliği & Sızma Testi
 
 > Web zafiyetleri, pentest ve bug bounty üzerine Türkçe rehberler, çeviriler ve topluluklar.

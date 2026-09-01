@@ -31,6 +31,7 @@
 - [🚩 CTF & Pratik](#ctf-pratik) `10`
 - [📺 YouTube, Blog & Podcast](#youtube-blog-podcast) `11`
 - [🏛️ Kurumlar, Topluluklar & Kariyer](#kurumlar-topluluklar-kariyer) `8`
+
 - [🗂️ Diğer Türkçe Derlemeler](#diger-turkce-derlemeler) `5`
 - [🤝 Katkı](#-katkı)
 
@@ -194,7 +195,7 @@
 | [Bilgi Teknolojileri ve İletişim Dergisi (BTK Dergi)](https://dergi.btk.gov.tr/tr/pub/btkdergi) | BTK'nın siber güvenlik, bilgi güvenliği, ağ güvenliği, kriptografi ve siber savunma alanlarında Türkçe açık erişimli hakemli makaleler yayımladığı akademik dergi. | doküman |
 | [Cyber BlackSea](https://cyber-blacksea.ktusec.com.tr/) | Karadeniz bölgesindeki öğrencileri, uzmanları ve sektör profesyonellerini CTF ve uygulamalı siber güvenlik eğitimleri etrafında bir araya getiren Türkçe zirve ve topluluk platformu. | topluluk |
 | [TÜBİTAK BİLGEM SGE](https://sge.bilgem.tubitak.gov.tr/) | Güvenli yazılım geliştirme standartları, kriptoloji ve kurumsal güvenlik mimarisi rehberleri. | doküman |
-
+* [Türkiye Siber Güvenlik Kümelenmesi Portalı](https://siberkume.org.tr) - Savunma Sanayii Başkanlığı ve Dijital Dönüşüm Ofisi destekli kümelenmenin; Türkiye'deki yerli siber güvenlik firmalarını ve ürün haritalarını tanıtan, sektörel etkinlik duyurularını paylaşan ve genç yeteneklerin siber güvenlik sektöründe iş/staj bulmasını kolaylaştıran "Siber Kariyer" kapısını barındıran resmi ana web portalı. `portal`
 ## 🗂️ Diğer Türkçe Derlemeler
 
 > Bu repoya benzer amaç taşıyan diğer Türkçe kaynak depoları — ekosistem hep birlikte büyür.

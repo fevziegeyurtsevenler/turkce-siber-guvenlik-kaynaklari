@@ -31,6 +31,7 @@
 - [🚩 CTF & Pratik](#ctf-pratik) `10`
 - [📺 YouTube, Blog & Podcast](#youtube-blog-podcast) `11`
 - [🏛️ Kurumlar, Topluluklar & Kariyer](#kurumlar-topluluklar-kariyer) `8`
+* [Türkiye Siber Güvenlik Kümelenmesi Portalı](https://siberkume.org.tr) - Savunma Sanayii Başkanlığı ve Dijital Dönüşüm Ofisi destekli kümelenmenin; Türkiye'deki yerli siber güvenlik firmalarını ve ürün haritalarını tanıtan, sektörel etkinlik duyurularını paylaşan ve genç yeteneklerin siber güvenlik sektöründe iş/staj bulmasını kolaylaştıran "Siber Kariyer" kapısını barındıran resmi ana web portalı. `portal`
 - [🗂️ Diğer Türkçe Derlemeler](#diger-turkce-derlemeler) `5`
 - [🤝 Katkı](#-katkı)
 

@@ -146,6 +146,7 @@
 | [awesome-ai-security-tr](https://github.com/fevziegeyurtsevenler/awesome-ai-security-tr) | Prompt injection'dan model güvenliğine, 300'den fazla kaynakla Türkçe yapay zekâ güvenliği dizini. | repo |
 | [LLM Security Akademi](https://ai.altaysec.com.tr) | LLM güvenliğini sıfırdan Türkçe anlatan ücretsiz akademi: dersler, saldırı teknikleri ve uygulamalı örnekler. | platform |
 | [AltaySec ATLAS Labs](https://fevziegeyurtsevenler.github.io/altaysec-atlas/) | MITRE ATLAS saldırı matrisini Türkçe açıklayan ve tarayıcı içinde AI saldırı simülasyonları sunan interaktif lab. | platform |
+| [Yapay Zekâ Ajanı Güvenliği: Komut Enjeksiyonu, En Az Yetki ve İnsan Onayı](https://yzdersleri.com/ders/ajan-guvenligi-komut-enjeksiyonu-en-az-yetki-ve-insan-onayi/) | Yapay zekâ ajanlarının e-posta ve belgelerdeki gizli talimatlarla yönlendirilmesine karşı alınacak önlemleri adım adım anlatan ücretsiz Türkçe ders. | site |
 
 ## 🚩 CTF & Pratik
 
